@@ -1,0 +1,2 @@
+        "DOTA_Tooltip_ability_item_demonicon_Lore"            "Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages."
+

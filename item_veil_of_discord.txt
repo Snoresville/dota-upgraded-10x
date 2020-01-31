@@ -1,0 +1,756 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24000"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "4100"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "18"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "2.5"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "2400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "40"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "1200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "32"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24001"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord;item_veil_of_discord"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24002"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "200"
+        "ItemCost"                      "8200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "36"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "5"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "4800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "80"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "2400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "64"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24003"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_2;item_veil_of_discord_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24004"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "8000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "400"
+        "ItemCost"                      "16400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "72"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "10"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "9600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "4800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "128"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24005"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_3;item_veil_of_discord_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24006"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "16000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "800"
+        "ItemCost"                      "32800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "144"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "19200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "9600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "256"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24007"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_4;item_veil_of_discord_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24008"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "32000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1600"
+        "ItemCost"                      "65600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "288"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "38400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "640"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "19200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "512"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24009"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_5;item_veil_of_discord_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24010"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "64000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "3200"
+        "ItemCost"                      "131200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "576"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "76800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "1280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "38400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "1024"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24011"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_6;item_veil_of_discord_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24012"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "128000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "6400"
+        "ItemCost"                      "262400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "1152"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "153600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "2560"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "76800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "2048"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24013"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_7;item_veil_of_discord_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24014"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "256000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "12800"
+        "ItemCost"                      "524800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "2304"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "307200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "5120"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "153600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "4096"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24015"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_8;item_veil_of_discord_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Veil of Discord 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_veil_of_discord_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24016"
+        "BaseClass"                     "item_veil_of_discord"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_AOE | DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DONT_CANCEL_MOVEMENT"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "512000"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "25600"
+        "ItemCost"                      "1049600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "4608"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_mana_regen"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "614400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "10240"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "debuff_radius"        "307200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "resist_debuff_duration"        "8192"
+            }
+        }
+    }
+
+    "item_recipe_veil_of_discord_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24017"
+        "BaseClass"                     "item_recipe_veil_of_discord"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_veil_of_discord_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_veil_of_discord_9;item_veil_of_discord_9"
+        }
+    }
+

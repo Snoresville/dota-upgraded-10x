@@ -1,0 +1,945 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22000"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "4760"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "30"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "50"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "10"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "10"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "62"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "50"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "12"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "108"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22001"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet;item_armlet"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22002"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "9520"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "60"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "100"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "20"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "20"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "124"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "100"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "16"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "24"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "216"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22003"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_2;item_armlet_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22004"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "19040"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "40"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "248"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "32"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "48"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "432"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22005"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_3;item_armlet_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22006"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "38080"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "80"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "496"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "64"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "96"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "864"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22007"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_4;item_armlet_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22008"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "76160"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "992"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "128"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "192"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "1728"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22009"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_5;item_armlet_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22010"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "152320"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "1984"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "1600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "256"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "384"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "3456"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22011"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_6;item_armlet_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22012"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "304640"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "3200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "640"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "3968"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "3200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "512"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "768"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "6912"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22013"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_7;item_armlet_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22014"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "609280"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "6400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "1280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "7936"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "6400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "1024"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "1536"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "13824"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22015"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_8;item_armlet_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Armlet Of Mordiggian 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_armlet_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22016"
+        "BaseClass"                     "item_armlet"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1218560"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "12800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health_regen"        "2560"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_damage"        "15872"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_attack_speed"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_strength"        "12800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_bonus_armor"        "2048"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_tick"        "3072"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_health_drain_per_second_tooltip"        "27648"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "toggle_cooldown"        "0.036"
+            }
+        }
+    }
+
+    "item_recipe_armlet_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22017"
+        "BaseClass"                     "item_recipe_armlet"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_armlet_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_armlet_9;item_armlet_9"
+        }
+    }
+

@@ -1,0 +1,765 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20600"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "10600"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "50"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "50"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "50"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "350"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "10"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "60"
+            }
+        }
+    }
+
+    "item_recipe_satanic_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20601"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic;item_satanic"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20602"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "21200"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "100"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "100"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "100"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "700"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "20"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "120"
+            }
+        }
+    }
+
+    "item_recipe_satanic_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20603"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_2;item_satanic_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20604"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "42400"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "200"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "1400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "1600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "40"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "240"
+            }
+        }
+    }
+
+    "item_recipe_satanic_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20605"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_3;item_satanic_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20606"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "84800"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "2800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "3200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "80"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "480"
+            }
+        }
+    }
+
+    "item_recipe_satanic_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20607"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_4;item_satanic_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20608"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "169600"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "5600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "6400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "160"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "960"
+            }
+        }
+    }
+
+    "item_recipe_satanic_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20609"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_5;item_satanic_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20610"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "339200"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1600"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "1600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "11200"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "12800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "320"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "1920"
+            }
+        }
+    }
+
+    "item_recipe_satanic_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20611"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_6;item_satanic_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20612"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "678400"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "3200"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "3200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "22400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "25600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "640"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "3840"
+            }
+        }
+    }
+
+    "item_recipe_satanic_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20613"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_7;item_satanic_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20614"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1356800"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "6400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "6400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "6400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "44800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "51200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "1280"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "7680"
+            }
+        }
+    }
+
+    "item_recipe_satanic_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20615"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_8;item_satanic_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Satanic 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_satanic_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20616"
+        "BaseClass"                     "item_satanic"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2713600"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "12800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "12800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "12800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_percent"        "89600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "unholy_lifesteal_total_tooltip"        "102400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "unholy_duration"        "2560"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "15360"
+            }
+        }
+    }
+
+    "item_recipe_satanic_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20617"
+        "BaseClass"                     "item_recipe_satanic"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_satanic_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_satanic_9;item_satanic_9"
+        }
+    }
+

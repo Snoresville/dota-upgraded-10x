@@ -1,0 +1,112 @@
+        // -------------------------------------
+        // Guardian Greaves
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_2"            "Guardian Greaves 2"
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_2_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_2_aura"            "Guardian Aura 2"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_2_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_3"            "Guardian Greaves 3"
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_3_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_3_aura"            "Guardian Aura 3"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_3_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_4"            "Guardian Greaves 4"
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_4_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_4_aura"            "Guardian Aura 4"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_4_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_5"            "Guardian Greaves 5"
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_5_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_5_aura"            "Guardian Aura 5"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_5_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_6"            "Guardian Greaves 6"
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_6_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_6_aura"            "Guardian Aura 6"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_6_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_7"            "Guardian Greaves 7"
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_7_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_7_aura"            "Guardian Aura 7"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_7_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_8"            "Guardian Greaves 8"
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_8_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_8_aura"            "Guardian Aura 8"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_8_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_9"            "Guardian Greaves 9"
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_9_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_9_aura"            "Guardian Aura 9"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_9_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+
+        "DOTA_Tooltip_Ability_item_guardian_greaves_10"            "Guardian Greaves 10"
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_Description"            "<h1>Active: Mend</h1>Restores %replenish_health% health and %replenish_mana% mana to nearby allies, and removes most negative effects from the caster.<br><br>Radius: %replenish_radius%<br>Dispel Type: <span class=\"GameplayValues GameplayVariable\">Basic Dispel</span>
+<h1>Passive: Guardian Aura</h1> Provides %aura_health_regen% health regeneration to allied units. If an allied hero's health falls below %aura_bonus_threshold%%%, they receive %aura_health_regen_bonus% health regeneration and %aura_armor_bonus% armor. <br><br>Radius: %aura_radius% \nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_Lore"            "One of many holy instruments constructed to honor the Omniscience."
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_Note0"            "The aura boost only applies to heroes."
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_bonus_mana"            "+$mana"
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_bonus_all_stats"            "+$all"
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_bonus_armor"            "+$armor"
+        "DOTA_Tooltip_ability_item_guardian_greaves_10_bonus_movement"            "%+$move_speed"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_10_aura"            "Guardian Aura 10"
+        "DOTA_Tooltip_modifier_item_guardian_greaves_10_aura_Description"            "Regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% health per second. Armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+

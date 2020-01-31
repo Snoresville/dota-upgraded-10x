@@ -1,0 +1,972 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25400"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2960"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "30"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "36"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "24"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "44"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "20"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "6"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "8"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25401"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots;item_phase_boots"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25402"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "5920"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "60"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "72"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "48"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "88"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "40"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "12"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "16"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25403"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_2;item_phase_boots_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25404"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "11840"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "144"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "96"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "176"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "80"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "24"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "32"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25405"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_3;item_phase_boots_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25406"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "23680"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "288"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "192"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "352"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "160"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "48"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "64"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25407"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_4;item_phase_boots_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25408"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "47360"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "576"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "384"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "704"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "320"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "96"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "128"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25409"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_5;item_phase_boots_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25410"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "94720"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "1152"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "768"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "1408"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "640"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "192"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "256"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25411"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_6;item_phase_boots_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25412"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "189440"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "2304"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "1536"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "2816"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "1280"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "384"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "512"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25413"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_7;item_phase_boots_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25414"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "378880"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "4608"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "3072"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "5632"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "2560"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "768"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1024"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25415"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_8;item_phase_boots_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Phase Boots 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_phase_boots_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25416"
+        "BaseClass"                     "item_phase_boots"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "8.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "757760"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_melee"        "9216"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage_range"        "6144"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_melee"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage_block_ranged"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_change"        "0"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed"        "11264"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "phase_movement_speed_range"        "5120"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "phase_duration"        "1536"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "2048"
+            }
+        }
+    }
+
+    "item_recipe_phase_boots_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25417"
+        "BaseClass"                     "item_recipe_phase_boots"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_phase_boots_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_phase_boots_9;item_phase_boots_9"
+        }
+    }
+

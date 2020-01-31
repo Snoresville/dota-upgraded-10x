@@ -1,0 +1,2 @@
+        "DOTA_Tooltip_ability_item_trident_Lore"            "A treasure from the Deep Seas, uniformly increasing the user's combat proficiency."
+

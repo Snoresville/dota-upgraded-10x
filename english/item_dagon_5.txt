@@ -1,0 +1,67 @@
+        // -------------------------------------
+        // Ultimate Dagon
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_dagon_5_2"            "Ultimate Dagon 2"
+        "DOTA_Tooltip_ability_item_dagon_5_2_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_2_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_2_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_2_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_2_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_3"            "Ultimate Dagon 3"
+        "DOTA_Tooltip_ability_item_dagon_5_3_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_3_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_3_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_3_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_3_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_4"            "Ultimate Dagon 4"
+        "DOTA_Tooltip_ability_item_dagon_5_4_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_4_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_4_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_4_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_4_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_5"            "Ultimate Dagon 5"
+        "DOTA_Tooltip_ability_item_dagon_5_5_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_5_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_5_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_5_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_5_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_6"            "Ultimate Dagon 6"
+        "DOTA_Tooltip_ability_item_dagon_5_6_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_6_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_6_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_6_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_6_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_7"            "Ultimate Dagon 7"
+        "DOTA_Tooltip_ability_item_dagon_5_7_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_7_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_7_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_7_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_7_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_8"            "Ultimate Dagon 8"
+        "DOTA_Tooltip_ability_item_dagon_5_8_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_8_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_8_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_8_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_8_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_9"            "Ultimate Dagon 9"
+        "DOTA_Tooltip_ability_item_dagon_5_9_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_9_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_9_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_9_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_9_bonus_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_dagon_5_10"            "Ultimate Dagon 10"
+        "DOTA_Tooltip_ability_item_dagon_5_10_Description"            "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit.<br><br>Damage: %damage%<br>Range: %abilitycastrange%<br>Mana Cost: %mana_cost_tooltip%"
+        "DOTA_Tooltip_ability_item_dagon_5_10_Lore"            "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user."
+        "DOTA_Tooltip_ability_item_dagon_5_10_Note0"            "Instantly kills illusions."
+        "DOTA_Tooltip_ability_item_dagon_5_10_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_dagon_5_10_bonus_all_stats"            "+$all"
+

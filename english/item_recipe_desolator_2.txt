@@ -1,0 +1,3 @@
+        "DOTA_Tooltip_ability_item_desolator_2_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+

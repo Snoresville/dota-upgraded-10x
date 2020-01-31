@@ -1,0 +1,990 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24700"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "3800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "8"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "8"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "8"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "40"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "40"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "70"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "30"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "12"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "2400"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24701"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo;item_ancient_janggo"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24702"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "7600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "16"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "16"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "16"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "80"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "80"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "140"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "60"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "24"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "4800"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24703"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_2;item_ancient_janggo_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24704"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "15200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "32"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "32"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "32"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "160"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "160"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "280"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "120"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "48"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "9600"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24705"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_3;item_ancient_janggo_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24706"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "30400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "64"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "64"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "64"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "320"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "320"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "560"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "240"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "96"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "19200"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24707"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_4;item_ancient_janggo_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24708"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "60800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "128"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "128"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "128"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "640"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "640"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "1120"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "480"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "192"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "38400"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24709"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_5;item_ancient_janggo_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24710"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "121600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "256"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "256"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "256"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "1280"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "1280"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "2240"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "960"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "384"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "76800"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24711"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_6;item_ancient_janggo_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24712"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "243200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "512"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "512"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "512"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "2560"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "2560"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "4480"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "1920"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "768"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "153600"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24713"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_7;item_ancient_janggo_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24714"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "486400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "1024"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "1024"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "1024"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "5120"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "5120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "8960"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "3840"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "1536"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "307200"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24715"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_8;item_ancient_janggo_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Drums of Endurance 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ancient_janggo_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24716"
+        "BaseClass"                     "item_ancient_janggo"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "614400"
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        "ItemRequiresCharges"                     "1"
+        "ItemDisplayCharges"                     "1"
+        "ItemStackable"                     "0"
+        "ItemPermanent"                     "1"
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "972800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_int"        "2048"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "2048"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "2048"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "10240"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_speed_aura"        "10240"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed_pct"        "17920"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed_pct"        "7680"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "3072"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "radius"        "614400"
+            }
+        }
+    }
+
+    "item_recipe_ancient_janggo_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24717"
+        "BaseClass"                     "item_recipe_ancient_janggo"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ancient_janggo_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_ancient_janggo_9;item_ancient_janggo_9"
+        }
+    }
+

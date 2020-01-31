@@ -1,0 +1,1053 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22700"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "7600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "500"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "21"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "12"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "6"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "140"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "70"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "60"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "24"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "2400"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "120"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "120"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22701"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard;item_crimson_guard"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22702"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "15200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "1000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "42"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "24"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "12"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "280"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "140"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "65"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "48"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "4800"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "240"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "240"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22703"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_2;item_crimson_guard_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22704"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "30400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "2000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "84"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "48"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "24"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "560"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "280"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "70"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "96"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "9600"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "480"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "480"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22705"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_3;item_crimson_guard_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22706"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "60800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "4000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "168"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "96"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "48"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "1120"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "560"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "75"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "192"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "19200"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "960"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "960"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22707"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_4;item_crimson_guard_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22708"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "121600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "8000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "336"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "192"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "96"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "2240"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "1120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "80"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "384"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "38400"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "1920"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "1920"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22709"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_5;item_crimson_guard_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22710"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "243200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "16000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "672"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "384"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "4480"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "2240"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "85"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "768"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "76800"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "3840"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "3840"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22711"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_6;item_crimson_guard_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22712"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "486400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "32000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "1344"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "768"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "384"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "8960"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "4480"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "90"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "1536"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "153600"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "7680"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "7680"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22713"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_7;item_crimson_guard_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22714"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "972800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "64000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "2688"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1536"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "768"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "17920"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "8960"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "95"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "3072"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "307200"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "15360"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "15360"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22715"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_8;item_crimson_guard_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Crimson Guard 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_crimson_guard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22716"
+        "BaseClass"                     "item_crimson_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "46.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1945600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "128000"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_Health_regen"        "5376"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "3072"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "1536"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee"        "35840"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged"        "17920"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance"        "100"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "6144"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_aoe_radius"        "614400"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_melee_active"        "30720"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_damage_ranged_active"        "30720"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "block_chance_active"        "100"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "tooltip_reapply_time"        "46"
+            }
+        }
+    }
+
+    "item_recipe_crimson_guard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22717"
+        "BaseClass"                     "item_recipe_crimson_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_crimson_guard_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_crimson_guard_9;item_crimson_guard_9"
+        }
+    }
+

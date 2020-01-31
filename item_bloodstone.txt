@@ -1,0 +1,1098 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20400"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "10500"
+        "ItemInitialCharges"                     "28"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "850"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "850"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "32"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "30"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "16"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "0.4"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "0.7"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "6"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "2"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "3200"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "28"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "60"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "4"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20401"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone;item_bloodstone"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20402"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "21000"
+        "ItemInitialCharges"                     "56"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "1700"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "1700"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "64"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "38"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "32"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "0.8"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "1.4"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "12"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "4"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "6400"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "56"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "120"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "8"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20403"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_2;item_bloodstone_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20404"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "42000"
+        "ItemInitialCharges"                     "112"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "3400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "3400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "128"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "47"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "64"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "1.6"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "2.8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "24"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "8"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "12800"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "112"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "240"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "16"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20405"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_3;item_bloodstone_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20406"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "84000"
+        "ItemInitialCharges"                     "224"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "6800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "6800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "256"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "56"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "128"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "1600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "3.2"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "5.6"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "48"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "16"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "25600"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "224"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "480"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "32"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20407"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_4;item_bloodstone_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20408"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "168000"
+        "ItemInitialCharges"                     "448"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "13600"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "13600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "512"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "65"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "256"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "3200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "6.4"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "11.2"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "96"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "32"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "51200"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "448"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "960"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "64"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20409"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_5;item_bloodstone_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20410"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "336000"
+        "ItemInitialCharges"                     "896"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "27200"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "27200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1024"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "74"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "512"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "6400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "12.8"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "22.4"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "192"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "64"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "102400"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "896"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "1920"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "128"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20411"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_6;item_bloodstone_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20412"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "672000"
+        "ItemInitialCharges"                     "1792"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "54400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "54400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2048"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "82"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "1024"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "12800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "25.6"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "44.8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "384"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "128"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "204800"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "1792"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "3840"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "256"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20413"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_7;item_bloodstone_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20414"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1344000"
+        "ItemInitialCharges"                     "3584"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "108800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "108800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "4096"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "91"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "2048"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "25600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "51.2"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "89.6"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "768"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "256"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "409600"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "3584"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "7680"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "512"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20415"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_8;item_bloodstone_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Bloodstone 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bloodstone_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20416"
+        "BaseClass"                     "item_bloodstone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "250.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2688000"
+        "ItemInitialCharges"                     "7168"
+        "ItemDisplayCharges"                     "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_health"        "217600"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "217600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "8192"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "100"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "4096"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen_multiplier"        "51200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "regen_per_charge"        "102.4"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "amp_per_charge"        "179.2"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "death_charges"        "1536"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "kill_charges"        "512"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "charge_range"        "819200"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "initial_charges_tooltip"        "7168"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_cost_percentage"        "15360"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "restore_duration"        "1024"
+            }
+        }
+    }
+
+    "item_recipe_bloodstone_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20417"
+        "BaseClass"                     "item_recipe_bloodstone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bloodstone_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_bloodstone_9;item_bloodstone_9"
+        }
+    }
+

@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Seer Stone
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_seer_stone_2"            "Seer Stone 2"
+        "DOTA_Tooltip_ability_item_seer_stone_2_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_2_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_2_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_2_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_3"            "Seer Stone 3"
+        "DOTA_Tooltip_ability_item_seer_stone_3_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_3_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_3_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_3_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_4"            "Seer Stone 4"
+        "DOTA_Tooltip_ability_item_seer_stone_4_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_4_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_4_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_4_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_5"            "Seer Stone 5"
+        "DOTA_Tooltip_ability_item_seer_stone_5_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_5_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_5_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_5_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_6"            "Seer Stone 6"
+        "DOTA_Tooltip_ability_item_seer_stone_6_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_6_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_6_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_6_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_7"            "Seer Stone 7"
+        "DOTA_Tooltip_ability_item_seer_stone_7_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_7_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_7_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_7_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_8"            "Seer Stone 8"
+        "DOTA_Tooltip_ability_item_seer_stone_8_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_8_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_8_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_8_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_9"            "Seer Stone 9"
+        "DOTA_Tooltip_ability_item_seer_stone_9_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_9_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_9_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_9_vision_bonus"            "+Vision Bonus"
+
+        "DOTA_Tooltip_Ability_item_seer_stone_10"            "Seer Stone 10"
+        "DOTA_Tooltip_ability_item_seer_stone_10_Description"            "Increases cast range as well as daytime and night time vision."
+        "DOTA_Tooltip_ability_item_seer_stone_10_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_seer_stone_10_cast_range_bonus"            "+$cast_range"
+        "DOTA_Tooltip_ability_item_seer_stone_10_vision_bonus"            "+Vision Bonus"
+

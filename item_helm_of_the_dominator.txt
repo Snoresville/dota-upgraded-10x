@@ -1,0 +1,891 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25100"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "4800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "14"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "10"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "100"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "2400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "3000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "850"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "400"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25101"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator;item_helm_of_the_dominator"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25102"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "9600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "28"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "20"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "200"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "4800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "6000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "1700"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "800"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25103"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_2;item_helm_of_the_dominator_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25104"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "19200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "56"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "9600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "12000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "3400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "1600"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25105"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_3;item_helm_of_the_dominator_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25106"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "38400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "112"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "19200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "24000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "6800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "3200"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25107"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_4;item_helm_of_the_dominator_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25108"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "76800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "224"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "1600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "38400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "48000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "13600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "6400"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25109"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_5;item_helm_of_the_dominator_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25110"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "153600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "448"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "3200"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "76800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "96000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "27200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "12800"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25111"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_6;item_helm_of_the_dominator_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25112"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "307200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "896"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "6400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "153600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "192000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "54400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "25600"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25113"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_7;item_helm_of_the_dominator_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25114"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "614400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "1792"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "12800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "307200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "384000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "108800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "51200"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25115"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_8;item_helm_of_the_dominator_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Helm of the Dominator 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_helm_of_the_dominator_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25116"
+        "BaseClass"                     "item_helm_of_the_dominator"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CREEP"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_NOT_CREEP_HERO | DOTA_UNIT_TARGET_FLAG_MAGIC_IMMUNE_ENEMIES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "614400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "60.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "1228800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_stats"        "3584"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "10240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "hp_regen_aura"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "creep_bonus"        "25600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "614400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "health_min"        "768000"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "speed_base"        "217600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bounty_gold"        "102400"
+            }
+        }
+    }
+
+    "item_recipe_helm_of_the_dominator_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25117"
+        "BaseClass"                     "item_recipe_helm_of_the_dominator"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_helm_of_the_dominator_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_helm_of_the_dominator_9;item_helm_of_the_dominator_9"
+        }
+    }
+

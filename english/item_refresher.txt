@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Refresher Orb
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_refresher_2"            "Refresher Orb 2"
+        "DOTA_Tooltip_ability_item_refresher_2_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_2_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_2_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_2_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_3"            "Refresher Orb 3"
+        "DOTA_Tooltip_ability_item_refresher_3_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_3_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_3_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_3_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_4"            "Refresher Orb 4"
+        "DOTA_Tooltip_ability_item_refresher_4_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_4_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_4_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_4_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_5"            "Refresher Orb 5"
+        "DOTA_Tooltip_ability_item_refresher_5_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_5_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_5_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_5_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_6"            "Refresher Orb 6"
+        "DOTA_Tooltip_ability_item_refresher_6_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_6_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_6_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_6_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_7"            "Refresher Orb 7"
+        "DOTA_Tooltip_ability_item_refresher_7_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_7_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_7_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_7_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_8"            "Refresher Orb 8"
+        "DOTA_Tooltip_ability_item_refresher_8_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_8_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_8_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_8_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_9"            "Refresher Orb 9"
+        "DOTA_Tooltip_ability_item_refresher_9_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_9_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_9_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_9_bonus_mana_regen"            "+$mana_regen"
+
+        "DOTA_Tooltip_Ability_item_refresher_10"            "Refresher Orb 10"
+        "DOTA_Tooltip_ability_item_refresher_10_Description"            "<h1>Active: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities."
+        "DOTA_Tooltip_ability_item_refresher_10_Lore"            "A powerful artifact created for wizards."
+        "DOTA_Tooltip_ability_item_refresher_10_bonus_health_regen"            "+$hp_regen"
+        "DOTA_Tooltip_ability_item_refresher_10_bonus_mana_regen"            "+$mana_regen"
+

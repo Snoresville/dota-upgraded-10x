@@ -1,0 +1,819 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23500"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "150"
+        "ItemCost"                      "9400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "130"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "10"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "12"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "12"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "1500"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "0.8"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23501"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier;item_nullifier"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23502"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "300"
+        "ItemCost"                      "18800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "260"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "24"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "24"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "3000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "1.6"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23503"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_2;item_nullifier_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23504"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "600"
+        "ItemCost"                      "37600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "520"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "48"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "48"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "6000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "3.2"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23505"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_3;item_nullifier_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23506"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1200"
+        "ItemCost"                      "75200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1040"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "96"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "96"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "12000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "1600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "6.4"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23507"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_4;item_nullifier_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23508"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "2400"
+        "ItemCost"                      "150400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "2080"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "192"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "24000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "3200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "12.8"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23509"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_5;item_nullifier_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23510"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "4800"
+        "ItemCost"                      "300800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "4160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "384"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "384"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "48000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "6400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "25.6"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23511"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_6;item_nullifier_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23512"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "9600"
+        "ItemCost"                      "601600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "8320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "768"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "768"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "96000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "12800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "51.2"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23513"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_7;item_nullifier_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23514"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "19200"
+        "ItemCost"                      "1203200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "16640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "1536"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "1536"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "192000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "25600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "102.4"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23515"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_8;item_nullifier_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Nullifier 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_nullifier_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23516"
+        "BaseClass"                     "item_nullifier"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+        "AbilityCooldown"                     "13.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "38400"
+        "ItemCost"                      "2406400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "33280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_regen"        "3072"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mute_duration"        "3072"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "384000"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "slow_pct"        "51200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "slow_interval_duration"        "204.8"
+            }
+        }
+    }
+
+    "item_recipe_nullifier_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23517"
+        "BaseClass"                     "item_recipe_nullifier"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_nullifier_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_nullifier_9;item_nullifier_9"
+        }
+    }
+

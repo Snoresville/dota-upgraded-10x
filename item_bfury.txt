@@ -1,0 +1,936 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21800"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "700"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "2.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "8700"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "15"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "7.5"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "140"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "100"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "36"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "10"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "300"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "720"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "1300"
+            }
+        }
+    }
+
+    "item_recipe_bfury_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21801"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury;item_bfury"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21802"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "1.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "17400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "30"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "15"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "72"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "20"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "1440"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "2600"
+            }
+        }
+    }
+
+    "item_recipe_bfury_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21803"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_2;item_bfury_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21804"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "34800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "60"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "30"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "560"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "144"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "40"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "1200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "2880"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "5200"
+            }
+        }
+    }
+
+    "item_recipe_bfury_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21805"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_3;item_bfury_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21806"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "5600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.3"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "69600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "60"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "1120"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "288"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "80"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "2400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "5760"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "10400"
+            }
+        }
+    }
+
+    "item_recipe_bfury_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21807"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_4;item_bfury_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21808"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "11200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.1"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "139200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "2240"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "1600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "576"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "160"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "4800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "11520"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "20800"
+            }
+        }
+    }
+
+    "item_recipe_bfury_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21809"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_5;item_bfury_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21810"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "22400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.1"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "278400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "480"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "4480"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "3200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "1152"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "320"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "9600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "23040"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "41600"
+            }
+        }
+    }
+
+    "item_recipe_bfury_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21811"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_6;item_bfury_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21812"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "44800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "556800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "960"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "8960"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "6400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "2304"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "640"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "19200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "46080"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "83200"
+            }
+        }
+    }
+
+    "item_recipe_bfury_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21813"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_7;item_bfury_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21814"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "89600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1113600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "15360"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "1920"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "17920"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "12800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "4608"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "1280"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "38400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "92160"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "166400"
+            }
+        }
+    }
+
+    "item_recipe_bfury_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21815"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_8;item_bfury_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Battlefury 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_bfury_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21816"
+        "BaseClass"                     "item_bfury"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_TREE | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "179200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "0.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2227200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "30720"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "3840"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "1920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent"        "35840"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_damage_percent_creep"        "25600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus"        "9216"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "quelling_bonus_ranged"        "2560"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_starting_width"        "76800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_ending_width"        "184320"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "cleave_distance"        "332800"
+            }
+        }
+    }
+
+    "item_recipe_bfury_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21817"
+        "BaseClass"                     "item_recipe_bfury"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_bfury_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_bfury_9;item_bfury_9"
+        }
+    }
+

@@ -1,0 +1,2 @@
+        "DOTA_Tooltip_ability_item_fallen_sky_Lore"            "Used to be wielded by an Overlord from the Astral Plane, this item allowed extravagant entrances to promote wonder, and armageddon."
+

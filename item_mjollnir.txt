@@ -1,0 +1,1215 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20700"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "11200"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "48"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "150"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "30"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "36"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "8"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "1200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "1800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "1800"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.8"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "40"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "340"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "24"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "1800"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.21"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.16"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20701"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir;item_mjollnir"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20702"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "200"
+        "ItemCost"                      "22400"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "96"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "300"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "60"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "44"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "16"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "2400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "3600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "3600"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.7"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "47"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "680"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "48"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "3600"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.185"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.14"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20703"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_2;item_mjollnir_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20704"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "400"
+        "ItemCost"                      "44800"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "192"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "52"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "32"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "1600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "4800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "7200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "7200"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.6"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "55"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "1360"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "96"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "7200"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.16"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.12"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20705"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_3;item_mjollnir_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20706"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "800"
+        "ItemCost"                      "89600"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "384"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "60"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "64"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "3200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "9600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "14400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "14400"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "63"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "2720"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "192"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "14400"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.135"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.1"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20707"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_4;item_mjollnir_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20708"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1600"
+        "ItemCost"                      "179200"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "768"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "2400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "68"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "128"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "6400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "19200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "28800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "28800"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.4"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "70"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "5440"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "384"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "28800"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.11"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.08"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20709"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_5;item_mjollnir_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20710"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "3200"
+        "ItemCost"                      "358400"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1536"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "4800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "76"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "256"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "12800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "38400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "57600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "57600"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.3"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "77"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "10880"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "768"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "57600"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.085"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.06"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20711"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_6;item_mjollnir_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20712"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "6400"
+        "ItemCost"                      "716800"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3072"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "9600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "1920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "84"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "512"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "25600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "76800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "115200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "115200"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.2"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "85"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "21760"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "1536"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "115200"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.06"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.04"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20713"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_7;item_mjollnir_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20714"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "12800"
+        "ItemCost"                      "1433600"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "6144"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "19200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "3840"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "92"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "1024"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "51200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "153600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "230400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "230400"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0.1"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "93"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "43520"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "3072"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "230400"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.035"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0.02"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20715"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_8;item_mjollnir_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mjollnir 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mjollnir_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20716"
+        "BaseClass"                     "item_mjollnir"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "35.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "25600"
+        "ItemCost"                      "2867200"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "12288"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "38400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_duration"        "7680"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_chance"        "100"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_strikes"        "2048"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_damage"        "102400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_primary_radius"        "307200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_secondary_radius"        "460800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "static_radius"        "460800"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "static_cooldown"        "0"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_chance"        "100"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_damage"        "87040"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_strikes"        "6144"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "chain_radius"        "460800"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_delay"        "0.01"
+            }
+            "16"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "chain_cooldown"        "0"
+            }
+        }
+    }
+
+    "item_recipe_mjollnir_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20717"
+        "BaseClass"                     "item_recipe_mjollnir"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mjollnir_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_mjollnir_9;item_mjollnir_9"
+        }
+    }
+

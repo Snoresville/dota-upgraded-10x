@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Glimmer Cape
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_2"            "Glimmer Cape 2"
+        "DOTA_Tooltip_ability_item_glimmer_cape_2_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_2_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_2_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_2_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_3"            "Glimmer Cape 3"
+        "DOTA_Tooltip_ability_item_glimmer_cape_3_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_3_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_3_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_3_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_4"            "Glimmer Cape 4"
+        "DOTA_Tooltip_ability_item_glimmer_cape_4_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_4_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_4_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_4_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_5"            "Glimmer Cape 5"
+        "DOTA_Tooltip_ability_item_glimmer_cape_5_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_5_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_5_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_5_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_6"            "Glimmer Cape 6"
+        "DOTA_Tooltip_ability_item_glimmer_cape_6_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_6_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_6_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_6_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_7"            "Glimmer Cape 7"
+        "DOTA_Tooltip_ability_item_glimmer_cape_7_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_7_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_7_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_7_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_8"            "Glimmer Cape 8"
+        "DOTA_Tooltip_ability_item_glimmer_cape_8_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_8_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_8_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_8_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_9"            "Glimmer Cape 9"
+        "DOTA_Tooltip_ability_item_glimmer_cape_9_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_9_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_9_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_9_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_glimmer_cape_10"            "Glimmer Cape 10"
+        "DOTA_Tooltip_ability_item_glimmer_cape_10_Description"            "<h1>Active: Glimmer</h1> After a %fade_delay% second delay, grants invisibility and %active_magical_armor%%% magic resistance to you or a target allied unit for %duration% seconds.<br><br>Range: %abilitycastrange%<br><br>Can be cast while channelling."
+        "DOTA_Tooltip_ability_item_glimmer_cape_10_Lore"            "The stolen cape of a master illusionist."
+        "DOTA_Tooltip_ability_item_glimmer_cape_10_bonus_magical_armor"            "+$spell_resist"
+        "DOTA_Tooltip_ability_item_glimmer_cape_10_bonus_attack_speed"            "+$attack"
+

@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Stygian Desolator
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_desolator_2_2"            "Stygian Desolator 2"
+        "DOTA_Tooltip_ability_item_desolator_2_2_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_2_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_2_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_2_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_3"            "Stygian Desolator 3"
+        "DOTA_Tooltip_ability_item_desolator_2_3_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_3_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_3_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_3_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_4"            "Stygian Desolator 4"
+        "DOTA_Tooltip_ability_item_desolator_2_4_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_4_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_4_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_4_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_5"            "Stygian Desolator 5"
+        "DOTA_Tooltip_ability_item_desolator_2_5_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_5_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_5_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_5_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_6"            "Stygian Desolator 6"
+        "DOTA_Tooltip_ability_item_desolator_2_6_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_6_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_6_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_6_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_7"            "Stygian Desolator 7"
+        "DOTA_Tooltip_ability_item_desolator_2_7_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_7_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_7_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_7_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_8"            "Stygian Desolator 8"
+        "DOTA_Tooltip_ability_item_desolator_2_8_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_8_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_8_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_8_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_9"            "Stygian Desolator 9"
+        "DOTA_Tooltip_ability_item_desolator_2_9_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_9_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_9_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_9_bonus_damage"            "+$damage"
+
+        "DOTA_Tooltip_Ability_item_desolator_2_10"            "Stygian Desolator 10"
+        "DOTA_Tooltip_ability_item_desolator_2_10_Description"            "<h1>Passive: Greater Corruption</h1> Your attacks reduce the target's armor by %corruption_armor% for %corruption_duration% seconds."
+        "DOTA_Tooltip_ability_item_desolator_2_10_Note0"            "Armor reduction works on buildings."
+        "DOTA_Tooltip_ability_item_desolator_2_10_Lore"            "Corrosive enchantments surround the scythe's reap, slashing through armor like hay."
+        "DOTA_Tooltip_ability_item_desolator_2_10_bonus_damage"            "+$damage"
+

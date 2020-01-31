@@ -1,0 +1,729 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22900"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "400"
+        "ItemCost"                      "15400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "50"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "10"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "1600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "400"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22901"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5;item_dagon_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22902"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "800"
+        "ItemCost"                      "30800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "100"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "3200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "800"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22903"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_2;item_dagon_5_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22904"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1600"
+        "ItemCost"                      "61600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "200"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "6400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "1600"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22905"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_3;item_dagon_5_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22906"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "3200"
+        "ItemCost"                      "123200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "12800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "3200"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22907"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_4;item_dagon_5_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22908"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "6400"
+        "ItemCost"                      "246400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "25600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "6400"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22909"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_5;item_dagon_5_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22910"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "12800"
+        "ItemCost"                      "492800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1600"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "51200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "12800"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22911"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_6;item_dagon_5_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22912"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "25600"
+        "ItemCost"                      "985600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "3200"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "102400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "25600"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22913"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_7;item_dagon_5_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22914"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "51200"
+        "ItemCost"                      "1971200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "6400"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "204800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "51200"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22915"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_8;item_dagon_5_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ultimate Dagon 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_dagon_5_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22916"
+        "BaseClass"                     "item_dagon_5"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "102400"
+        "ItemCost"                      "3942400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "12800"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "damage"        "409600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_delay"        "0"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "mana_cost_tooltip"        "102400"
+            }
+        }
+    }
+
+    "item_recipe_dagon_5_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22917"
+        "BaseClass"                     "item_recipe_dagon_5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_dagon_5_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_dagon_5_9;item_dagon_5_9"
+        }
+    }
+

@@ -1,0 +1,675 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25000"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "8000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "400"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25001"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard;item_moon_shard"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25002"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "16000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "1600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "800"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25003"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_2;item_moon_shard_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25004"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "32000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "3200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "1600"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25005"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_3;item_moon_shard_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25006"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "64000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "2240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "6400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "3200"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25007"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_4;item_moon_shard_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25008"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "128000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "4480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "12800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "1920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "6400"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25009"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_5;item_moon_shard_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25010"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "256000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "8960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "25600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "3840"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "12800"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25011"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_6;item_moon_shard_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25012"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "512000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "17920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "51200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "7680"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "25600"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25013"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_7;item_moon_shard_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25014"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1024000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "35840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "102400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "15360"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "51200"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25015"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_8;item_moon_shard_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Moon Shard 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_moon_shard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25016"
+        "BaseClass"                     "item_moon_shard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IMMEDIATE"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CUSTOM"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2048000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ItemQuality"                      "consumable"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "71680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_night_vision"        "204800"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus"        "30720"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "consumed_bonus_night_vision"        "102400"
+            }
+        }
+    }
+
+    "item_recipe_moon_shard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25017"
+        "BaseClass"                     "item_recipe_moon_shard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_moon_shard_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_moon_shard_9;item_moon_shard_9"
+        }
+    }
+

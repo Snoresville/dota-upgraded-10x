@@ -1,0 +1,846 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20800"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "12300"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "60"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "60"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "60"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "60"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "60"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "60"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "60"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "44"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "60"
+            }
+        }
+    }
+
+    "item_recipe_trident_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20801"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident;item_trident"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20802"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "24600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "120"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "120"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "120"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "51"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "120"
+            }
+        }
+    }
+
+    "item_recipe_trident_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20803"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_2;item_trident_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20804"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "49200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "240"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "240"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "240"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "240"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "58"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "240"
+            }
+        }
+    }
+
+    "item_recipe_trident_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20805"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_3;item_trident_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20806"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "98400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "480"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "480"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "480"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "480"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "480"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "65"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "480"
+            }
+        }
+    }
+
+    "item_recipe_trident_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20807"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_4;item_trident_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20808"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "196800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "960"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "960"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "960"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "960"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "960"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "72"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "960"
+            }
+        }
+    }
+
+    "item_recipe_trident_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20809"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_5;item_trident_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20810"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "393600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "1920"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "1920"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1920"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "1920"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "1920"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "79"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "1920"
+            }
+        }
+    }
+
+    "item_recipe_trident_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20811"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_6;item_trident_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20812"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "787200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "3840"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "3840"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "3840"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "3840"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "3840"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "3840"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "86"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "3840"
+            }
+        }
+    }
+
+    "item_recipe_trident_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20813"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_7;item_trident_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20814"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1574400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "7680"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "7680"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "7680"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "7680"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "7680"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "7680"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "93"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "7680"
+            }
+        }
+    }
+
+    "item_recipe_trident_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20815"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_8;item_trident_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Trident 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_trident_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20816"
+        "BaseClass"                     "item_trident"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "3148800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "15360"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "15360"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "15360"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "status_resistance"        "15360"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "15360"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "movement_speed_percent_bonus"        "15360"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "hp_regen_amp"        "15360"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "manacost_reduction"        "100"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "spell_amp"        "15360"
+            }
+        }
+    }
+
+    "item_recipe_trident_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "20817"
+        "BaseClass"                     "item_recipe_trident"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_trident_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_trident_9;item_trident_9"
+        }
+    }
+

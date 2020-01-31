@@ -1,0 +1,819 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23600"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "7800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "16"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "3"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "20"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "160"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "14"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23601"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest;item_solar_crest"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23602"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "15600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "32"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "6"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "40"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "320"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "28"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23603"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_2;item_solar_crest_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23604"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "8000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "31200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "64"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "12"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "80"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "640"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "56"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23605"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_3;item_solar_crest_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23606"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "16000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "62400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "128"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "24"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "160"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "1280"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "112"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23607"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_4;item_solar_crest_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23608"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "32000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "124800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "256"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "48"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "320"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "2560"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "224"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23609"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_5;item_solar_crest_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23610"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "64000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "249600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "512"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "96"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "640"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "5120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "448"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23611"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_6;item_solar_crest_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23612"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "128000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "499200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1024"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "1280"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "10240"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "896"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23613"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_7;item_solar_crest_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23614"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "256000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "998400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "2048"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "5120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "384"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "2560"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "20480"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "1792"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23615"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_8;item_solar_crest_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Solar Crest 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_solar_crest_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23616"
+        "BaseClass"                     "item_solar_crest"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_BOTH"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+        "SpellImmunityType"                     "SPELL_IMMUNITY_ENEMIES_NO"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "512000"
+        "AbilityCooldown"                     "7.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1996800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "4096"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "self_movement_speed"        "10240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen_pct"        "768"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_movement_speed"        "5120"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "target_attack_speed"        "40960"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "3584"
+            }
+        }
+    }
+
+    "item_recipe_solar_crest_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23617"
+        "BaseClass"                     "item_recipe_solar_crest"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_solar_crest_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_solar_crest_9;item_solar_crest_9"
+        }
+    }
+

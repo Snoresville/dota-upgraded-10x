@@ -1,0 +1,774 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24100"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1600"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "180"
+        "ItemCost"                      "3900"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "30"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "90"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "10"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "360"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24101"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape;item_glimmer_cape"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24102"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "360"
+        "ItemCost"                      "7800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "60"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "180"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "20"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "720"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24103"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_2;item_glimmer_cape_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24104"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "720"
+        "ItemCost"                      "15600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "360"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "40"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "1440"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24105"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_3;item_glimmer_cape_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24106"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1440"
+        "ItemCost"                      "31200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "720"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "80"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "2880"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24107"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_4;item_glimmer_cape_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24108"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "2880"
+        "ItemCost"                      "62400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "480"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "1440"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "160"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "5760"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24109"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_5;item_glimmer_cape_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24110"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "5760"
+        "ItemCost"                      "124800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "960"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "2880"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "320"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "11520"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24111"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_6;item_glimmer_cape_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24112"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "11520"
+        "ItemCost"                      "249600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "1920"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "5760"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "640"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "23040"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24113"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_7;item_glimmer_cape_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24114"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "23040"
+        "ItemCost"                      "499200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "3840"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "11520"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "1280"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "46080"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24115"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_8;item_glimmer_cape_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Glimmer Cape 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_glimmer_cape_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24116"
+        "BaseClass"                     "item_glimmer_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_MOVEMENT"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCooldown"                     "14.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "46080"
+        "ItemCost"                      "998400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "10240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_magical_armor"        "7680"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "fade_delay"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "active_magical_armor"        "23040"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "duration"        "2560"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "building_duration_limit"        "92160"
+            }
+        }
+    }
+
+    "item_recipe_glimmer_cape_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24117"
+        "BaseClass"                     "item_recipe_glimmer_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_glimmer_cape_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_glimmer_cape_9;item_glimmer_cape_9"
+        }
+    }
+

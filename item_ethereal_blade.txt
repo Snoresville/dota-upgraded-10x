@@ -1,0 +1,963 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21700"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "9400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "20"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "8"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "4"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "150"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-80"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "2550"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21701"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade;item_ethereal_blade"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21702"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "18800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "16"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "8"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "300"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "16"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-160"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "5100"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21703"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_2;item_ethereal_blade_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21704"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "37600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-640"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "32"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "16"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "32"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-320"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "10200"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21705"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_3;item_ethereal_blade_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21706"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "75200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-1280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "64"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "32"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "1200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "64"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-640"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "20400"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21707"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_4;item_ethereal_blade_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21708"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "150400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-2560"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "128"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "64"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "2400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "128"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-1280"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "40800"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21709"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_5;item_ethereal_blade_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21710"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "300800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-5120"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "256"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "128"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "4800"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "256"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-2560"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "81600"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21711"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_6;item_ethereal_blade_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21712"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "601600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-10240"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "512"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "256"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "9600"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "512"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-5120"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "163200"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21713"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_7;item_ethereal_blade_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21714"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "1203200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "10240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-20480"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "1024"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "512"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "19200"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "1024"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-10240"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "326400"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21715"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_8;item_ethereal_blade_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ethereal Blade 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ethereal_blade_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21716"
+        "BaseClass"                     "item_ethereal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY | DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "20.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "2406400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "20480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "5120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_slow"        "-40960"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration"        "2048"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_agility_multiplier"        "1024"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage_base"        "38400"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "duration_ally"        "2048"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "ethereal_damage_bonus"        "-20480"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "projectile_speed"        "652800"
+            }
+        }
+    }
+
+    "item_recipe_ethereal_blade_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21717"
+        "BaseClass"                     "item_recipe_ethereal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ethereal_blade_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_ethereal_blade_9;item_ethereal_blade_9"
+        }
+    }
+

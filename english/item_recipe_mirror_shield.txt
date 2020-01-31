@@ -1,0 +1,2 @@
+        "DOTA_Tooltip_ability_item_mirror_shield_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+

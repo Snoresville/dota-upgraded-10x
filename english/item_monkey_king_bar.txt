@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Monkey King Bar
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_2"            "Monkey King Bar 2"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_2_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_2_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_2_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_2_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_3"            "Monkey King Bar 3"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_3_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_3_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_3_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_3_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_4"            "Monkey King Bar 4"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_4_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_4_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_4_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_4_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_5"            "Monkey King Bar 5"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_5_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_5_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_5_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_5_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_6"            "Monkey King Bar 6"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_6_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_6_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_6_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_6_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_7"            "Monkey King Bar 7"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_7_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_7_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_7_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_7_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_8"            "Monkey King Bar 8"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_8_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_8_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_8_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_8_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_9"            "Monkey King Bar 9"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_9_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_9_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_9_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_9_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_monkey_king_bar_10"            "Monkey King Bar 10"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_10_Description"            "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_10_Lore"            "A powerful staff used by a master warrior."
+        "DOTA_Tooltip_ability_item_monkey_king_bar_10_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_ability_item_monkey_king_bar_10_bonus_attack_speed"            "+$attack"
+

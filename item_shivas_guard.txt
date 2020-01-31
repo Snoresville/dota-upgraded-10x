@@ -1,0 +1,891 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22300"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1800"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "200"
+        "ItemCost"                      "9500"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "60"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "30"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "2400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-90"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-80"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "8"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "1800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "700"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22301"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard;item_shivas_guard"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22302"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3600"
+        "AbilityCooldown"                     "7.5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "400"
+        "ItemCost"                      "19000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "60"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "4800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-180"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-160"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "16"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "3600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "1400"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22303"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_2;item_shivas_guard_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22304"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "7200"
+        "AbilityCooldown"                     "3.8"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "800"
+        "ItemCost"                      "38000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "9600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-360"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "1600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-320"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "32"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "7200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "2800"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22305"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_3;item_shivas_guard_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22306"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "14400"
+        "AbilityCooldown"                     "1.9"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1600"
+        "ItemCost"                      "76000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "19200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-720"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "3200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-640"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "64"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "14400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "5600"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22307"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_4;item_shivas_guard_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22308"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "28800"
+        "AbilityCooldown"                     "0.9"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "3200"
+        "ItemCost"                      "152000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "480"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "38400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-1440"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "6400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-1280"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "128"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "28800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "11200"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22309"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_5;item_shivas_guard_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22310"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "57600"
+        "AbilityCooldown"                     "0.5"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "6400"
+        "ItemCost"                      "304000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "960"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "76800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-2880"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "12800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-2560"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "256"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "57600"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "22400"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22311"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_6;item_shivas_guard_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22312"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "115200"
+        "AbilityCooldown"                     "0.2"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "12800"
+        "ItemCost"                      "608000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1920"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "153600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-5760"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "25600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-5120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "512"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "115200"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "44800"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22313"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_7;item_shivas_guard_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22314"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "230400"
+        "AbilityCooldown"                     "0.1"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "25600"
+        "ItemCost"                      "1216000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "3840"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "307200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-11520"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "51200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-10240"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "1024"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "230400"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "89600"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22315"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_8;item_shivas_guard_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Shiva's Guard 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_shivas_guard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22316"
+        "BaseClass"                     "item_shivas_guard"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "460800"
+        "AbilityCooldown"                     "0.1"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "51200"
+        "ItemCost"                      "2432000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "15360"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "7680"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "614400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_attack_speed"        "-23040"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_damage"        "102400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_movement_speed"        "-20480"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blast_debuff_duration"        "2048"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_radius"        "460800"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "blast_speed"        "179200"
+            }
+        }
+    }
+
+    "item_recipe_shivas_guard_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "22317"
+        "BaseClass"                     "item_recipe_shivas_guard"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_shivas_guard_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_shivas_guard_9;item_shivas_guard_9"
+        }
+    }
+

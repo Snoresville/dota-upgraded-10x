@@ -1,0 +1,1134 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23400"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "19400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "30"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "20"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "100"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "180"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "12"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "4"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.81"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "630"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "5"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "150"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "300"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "2"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23401"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky;item_fallen_sky"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23402"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "38800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "60"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "40"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "360"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "24"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.71"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "1260"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "10"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "300"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "600"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "2"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23403"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_2;item_fallen_sky_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23404"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "77600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "80"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "720"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "48"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "16"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.61"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "2520"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "20"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "600"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "1200"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "1"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23405"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_3;item_fallen_sky_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23406"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "155200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "1440"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "96"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "32"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.51"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "5040"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "40"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "1200"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "2400"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "1"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23407"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_4;item_fallen_sky_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23408"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "310400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "1600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "2880"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "192"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "64"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.41"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "10080"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "80"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "2400"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "4800"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "1"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23409"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_5;item_fallen_sky_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23410"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "620800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "640"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "3200"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "5760"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "384"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "128"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.31"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "20160"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "160"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "4800"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "9600"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "0"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23411"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_6;item_fallen_sky_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23412"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1241600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "1920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "1280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "6400"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "11520"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "768"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "256"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.21"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "40320"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "320"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "9600"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "19200"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "0"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23413"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_7;item_fallen_sky_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23414"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2483200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "3840"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "2560"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "12800"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "23040"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "1536"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "512"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.11"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "80640"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "640"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "19200"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "38400"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "0"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23415"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_8;item_fallen_sky_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Fallen Sky 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_fallen_sky_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23416"
+        "BaseClass"                     "item_fallen_sky"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_DIRECTIONAL | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "819200"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "4966400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "10240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "10240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "7680"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "5120"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_buildings"        "25600"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_dps_units"        "46080"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "burn_duration"        "3072"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "stun_duration"        "1024"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "burn_interval"        "0.01"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "land_time"        "0.5"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_radius"        "161280"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "max_duration"        "1280"
+            }
+            "13"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_buildings"        "38400"
+            }
+            "14"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "impact_damage_units"        "76800"
+            }
+            "15"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "blink_damage_cooldown"        "0"
+            }
+        }
+    }
+
+    "item_recipe_fallen_sky_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23417"
+        "BaseClass"                     "item_recipe_fallen_sky"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_fallen_sky_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_fallen_sky_9;item_fallen_sky_9"
+        }
+    }
+

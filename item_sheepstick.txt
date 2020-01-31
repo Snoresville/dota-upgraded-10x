@@ -1,0 +1,774 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23100"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "500"
+        "ItemCost"                      "15400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "20"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "70"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "18"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "7"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "112"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23101"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick;item_sheepstick"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23102"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1000"
+        "ItemCost"                      "30800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "140"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "36"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "14"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "98"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23103"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_2;item_sheepstick_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23104"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "6400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "2000"
+        "ItemCost"                      "61600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "72"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "28"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "84"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23105"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_3;item_sheepstick_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23106"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "12800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "4000"
+        "ItemCost"                      "123200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "144"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "56"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "70"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23107"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_4;item_sheepstick_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23108"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "25600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "8000"
+        "ItemCost"                      "246400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "288"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "112"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "56"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23109"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_5;item_sheepstick_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23110"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "51200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "16000"
+        "ItemCost"                      "492800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "576"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "224"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "42"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23111"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_6;item_sheepstick_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23112"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "102400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "32000"
+        "ItemCost"                      "985600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "4480"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "1152"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "448"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "28"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23113"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_7;item_sheepstick_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23114"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "204800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "64000"
+        "ItemCost"                      "1971200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "8960"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "2304"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "896"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "14"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23115"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_8;item_sheepstick_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Scythe of Vyse 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_sheepstick_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23116"
+        "BaseClass"                     "item_sheepstick"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "2"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "409600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "22.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "128000"
+        "ItemCost"                      "3942400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "17920"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "4608"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_duration"        "1792"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "sheep_movement_speed"        "0"
+            }
+        }
+    }
+
+    "item_recipe_sheepstick_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23117"
+        "BaseClass"                     "item_recipe_sheepstick"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_sheepstick_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_sheepstick_9;item_sheepstick_9"
+        }
+    }
+

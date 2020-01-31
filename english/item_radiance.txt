@@ -1,0 +1,67 @@
+        // -------------------------------------
+        // Radiance
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_radiance_2"            "Radiance 2"
+        "DOTA_Tooltip_ability_item_radiance_2_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_2_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_2_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_2_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_2_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_3"            "Radiance 3"
+        "DOTA_Tooltip_ability_item_radiance_3_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_3_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_3_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_3_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_3_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_4"            "Radiance 4"
+        "DOTA_Tooltip_ability_item_radiance_4_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_4_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_4_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_4_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_4_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_5"            "Radiance 5"
+        "DOTA_Tooltip_ability_item_radiance_5_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_5_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_5_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_5_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_5_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_6"            "Radiance 6"
+        "DOTA_Tooltip_ability_item_radiance_6_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_6_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_6_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_6_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_6_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_7"            "Radiance 7"
+        "DOTA_Tooltip_ability_item_radiance_7_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_7_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_7_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_7_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_7_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_8"            "Radiance 8"
+        "DOTA_Tooltip_ability_item_radiance_8_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_8_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_8_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_8_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_8_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_9"            "Radiance 9"
+        "DOTA_Tooltip_ability_item_radiance_9_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_9_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_9_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_9_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_9_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+
+        "DOTA_Tooltip_Ability_item_radiance_10"            "Radiance 10"
+        "DOTA_Tooltip_ability_item_radiance_10_Description"            "<h1>Toggle: Burn</h1> When active, scorches enemies for %aura_damage% magical damage per second, and causes them to miss %blind_pct%%% of their attacks. Illusions deal %aura_damage_illusions% magical damage per second.<br><br>Radius: %aura_radius%"
+        "DOTA_Tooltip_ability_item_radiance_10_Lore"            "A divine weapon that causes damage and a bright burning effect that lays waste to nearby enemies."
+        "DOTA_Tooltip_ability_item_radiance_10_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_radiance_10_debuff"            "Burn Damage"
+        "DOTA_Tooltip_modifier_item_radiance_10_debuff_Description"            "Taking 60 damage per second, and missing %dMODIFIER_PROPERTY_MISS_PERCENTAGE%%% of attacks."
+

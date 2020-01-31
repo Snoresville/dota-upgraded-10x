@@ -1,0 +1,819 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25300"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "50"
+        "ItemCost"                      "3550"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "30"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "220"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "60"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-16"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "12"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25301"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness;item_mask_of_madness"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25302"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "100"
+        "ItemCost"                      "7100"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "60"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "440"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "120"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-32"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "24"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25303"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_2;item_mask_of_madness_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25304"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "200"
+        "ItemCost"                      "14200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "880"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "240"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-64"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "48"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25305"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_3;item_mask_of_madness_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25306"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "400"
+        "ItemCost"                      "28400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "1760"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "480"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-128"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "96"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25307"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_4;item_mask_of_madness_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25308"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "800"
+        "ItemCost"                      "56800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "480"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "3520"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "960"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-256"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "192"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25309"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_5;item_mask_of_madness_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25310"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1600"
+        "ItemCost"                      "113600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "960"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "7040"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "1920"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-512"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "384"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25311"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_6;item_mask_of_madness_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25312"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "3200"
+        "ItemCost"                      "227200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1920"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "14080"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "3840"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-1024"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "768"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25313"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_7;item_mask_of_madness_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25314"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "6400"
+        "ItemCost"                      "454400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3840"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "5120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "28160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "7680"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-2048"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "1536"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25315"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_8;item_mask_of_madness_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Mask of Madness 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_mask_of_madness_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25316"
+        "BaseClass"                     "item_mask_of_madness"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_IGNORE_CHANNEL"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "16.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "12800"
+        "ItemCost"                      "908800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "7680"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_attack_speed"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "lifesteal_percent"        "10240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_attack_speed"        "56320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_bonus_movement_speed"        "15360"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "berserk_armor_reduction"        "-4096"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "berserk_duration"        "3072"
+            }
+        }
+    }
+
+    "item_recipe_mask_of_madness_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "25317"
+        "BaseClass"                     "item_recipe_mask_of_madness"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_mask_of_madness_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_mask_of_madness_9;item_mask_of_madness_9"
+        }
+    }
+

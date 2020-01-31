@@ -1,0 +1,1017 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24200"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "9900"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "34"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "500"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "10"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "12"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "5"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "32"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "20"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "40"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "980"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "600"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "400"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "2400"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24201"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves;item_guardian_greaves"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24202"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "19800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "68"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "1000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "20"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "24"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "10"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "64"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "40"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "80"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "870"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "1200"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "800"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "4800"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24203"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_2;item_guardian_greaves_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24204"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "39600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "136"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "2000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "48"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "20"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "128"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "80"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "160"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "760"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "2400"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "1600"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "9600"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24205"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_3;item_guardian_greaves_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24206"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "79200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "272"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "4000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "96"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "40"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "256"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "160"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "320"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "650"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "4800"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "3200"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "19200"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24207"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_4;item_guardian_greaves_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24208"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "158400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "544"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "8000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "80"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "512"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "320"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "640"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "540"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "9600"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "6400"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "38400"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24209"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_5;item_guardian_greaves_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24210"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "316800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "1088"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "16000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "384"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "160"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "1024"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "640"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "1280"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "430"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "19200"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "12800"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "76800"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24211"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_6;item_guardian_greaves_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24212"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "633600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "2176"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "32000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "768"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "320"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "2048"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "1280"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "2560"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "320"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "38400"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "25600"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "153600"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24213"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_7;item_guardian_greaves_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24214"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "1267200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "4352"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "64000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1536"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "640"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "4096"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "2560"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "5120"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "210"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "76800"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "51200"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "307200"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24215"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_8;item_guardian_greaves_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Guardian Greaves 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_guardian_greaves_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24216"
+        "BaseClass"                     "item_guardian_greaves"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "614400"
+        "AbilityCooldown"                     "40.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "2534400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement"        "8704"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "128000"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_all_stats"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "3072"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_health_regen"        "1280"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_health_regen_bonus"        "8192"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_armor_bonus"        "5120"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_threshold"        "10240"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "100"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_health"        "153600"
+            }
+            "11"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_mana"        "102400"
+            }
+            "12"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "replenish_radius"        "614400"
+            }
+        }
+    }
+
+    "item_recipe_guardian_greaves_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "24217"
+        "BaseClass"                     "item_recipe_guardian_greaves"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_guardian_greaves_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_guardian_greaves_9;item_guardian_greaves_9"
+        }
+    }
+

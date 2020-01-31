@@ -1,0 +1,918 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21200"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "6300"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "100"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "32"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "16"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "6"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "8"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "1.6"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21201"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade;item_diffusal_blade"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21202"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "12600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "64"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "32"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "12"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "16"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "3.2"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21203"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_2;item_diffusal_blade_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21204"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "25200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "128"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "64"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "24"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "32"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "6.4"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21205"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_3;item_diffusal_blade_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21206"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "50400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "256"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "128"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "48"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "64"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "12.8"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21207"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_4;item_diffusal_blade_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21208"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "100800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "1600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "512"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "256"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "96"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "128"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "25.6"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21209"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_5;item_diffusal_blade_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21210"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "201600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "3200"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "1024"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "512"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "192"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "256"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "51.2"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21211"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_6;item_diffusal_blade_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21212"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "403200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "6400"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "2048"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "1024"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "384"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "512"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "102.4"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21213"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_7;item_diffusal_blade_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21214"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "806400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "12800"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "4096"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "2048"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "768"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "1024"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "204.8"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21215"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_8;item_diffusal_blade_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Diffusal Blade 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_diffusal_blade_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21216"
+        "BaseClass"                     "item_diffusal_blade"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_ENEMY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "15.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "0"
+        "ItemCost"                      "1612800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "10240"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "5120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn"        "25600"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_melee"        "8192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "feedback_mana_burn_illusion_ranged"        "4096"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "purge_rate"        "5"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_root_duration"        "1536"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "purge_slow_duration"        "2048"
+            }
+            "09"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "damage_per_burn"        "409.6"
+            }
+        }
+    }
+
+    "item_recipe_diffusal_blade_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "21217"
+        "BaseClass"                     "item_recipe_diffusal_blade"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_diffusal_blade_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_diffusal_blade_9;item_diffusal_blade_9"
+        }
+    }
+

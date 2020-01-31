@@ -1,0 +1,67 @@
+        // -------------------------------------
+        // Hand of Midas
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_2"            "Hand of Midas 2"
+        "DOTA_Tooltip_ability_item_hand_of_midas_2_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_2_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_2_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_2_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_2_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_3"            "Hand of Midas 3"
+        "DOTA_Tooltip_ability_item_hand_of_midas_3_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_3_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_3_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_3_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_3_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_4"            "Hand of Midas 4"
+        "DOTA_Tooltip_ability_item_hand_of_midas_4_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_4_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_4_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_4_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_4_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_5"            "Hand of Midas 5"
+        "DOTA_Tooltip_ability_item_hand_of_midas_5_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_5_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_5_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_5_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_5_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_6"            "Hand of Midas 6"
+        "DOTA_Tooltip_ability_item_hand_of_midas_6_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_6_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_6_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_6_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_6_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_7"            "Hand of Midas 7"
+        "DOTA_Tooltip_ability_item_hand_of_midas_7_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_7_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_7_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_7_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_7_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_8"            "Hand of Midas 8"
+        "DOTA_Tooltip_ability_item_hand_of_midas_8_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_8_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_8_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_8_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_8_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_9"            "Hand of Midas 9"
+        "DOTA_Tooltip_ability_item_hand_of_midas_9_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_9_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_9_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_9_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_9_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_hand_of_midas_10"            "Hand of Midas 10"
+        "DOTA_Tooltip_ability_item_hand_of_midas_10_Description"            "<h1>Active: Transmute</h1> Kills a non-hero target for %bonus_gold% gold and %xp_multiplier%x experience. <br><br> Can be used on Ancient Creeps.<br><br>Range: %abilitycastrange%"
+        "DOTA_Tooltip_ability_item_hand_of_midas_10_Lore"            "Preserved through unknown magical means, the Hand of Midas is a weapon of greed, sacrificing animals to line the owner's pockets."
+        "DOTA_Tooltip_ability_item_hand_of_midas_10_Note0"            "The gold given is reliable gold (you do not get the normal creep bounty)."
+        "DOTA_Tooltip_ability_item_hand_of_midas_10_Note1"            "Experience gained by using Transmute is not shared."
+        "DOTA_Tooltip_ability_item_hand_of_midas_10_bonus_attack_speed"            "+$attack"
+

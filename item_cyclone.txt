@@ -1,0 +1,738 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23800"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1150"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "350"
+        "ItemCost"                      "5500"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "20"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "10"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "40"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "5"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23801"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone;item_cyclone"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23802"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2300"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "700"
+        "ItemCost"                      "11000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "20"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "80"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "10"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23803"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_2;item_cyclone_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23804"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1400"
+        "ItemCost"                      "22000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "40"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "160"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "20"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23805"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_3;item_cyclone_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23806"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "2800"
+        "ItemCost"                      "44000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "80"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "320"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "40"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23807"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_4;item_cyclone_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23808"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "18400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "5600"
+        "ItemCost"                      "88000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "160"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "640"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "80"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23809"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_5;item_cyclone_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23810"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "36800"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "11200"
+        "ItemCost"                      "176000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "320"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "1280"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "160"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23811"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_6;item_cyclone_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23812"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "73600"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "22400"
+        "ItemCost"                      "352000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "640"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "2560"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "320"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23813"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_7;item_cyclone_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23814"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "147200"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "44800"
+        "ItemCost"                      "704000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "1280"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "5120"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "640"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23815"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_8;item_cyclone_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Eul's Scepter of Divinity 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_cyclone_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23816"
+        "BaseClass"                     "item_cyclone"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_CUSTOM"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_CUSTOM"
+        "FightRecapLevel"                     "1"
+        "SpellDispellableType"                     "SPELL_DISPELLABLE_YES"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "294400"
+        "AbilityCastPoint"                     "0.0"
+        "AbilityCooldown"                     "23.0"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "89600"
+        "ItemCost"                      "1408000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "2560"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_movement_speed"        "10240"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "cyclone_duration"        "1280"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_drop_damage"        "50"
+            }
+        }
+    }
+
+    "item_recipe_cyclone_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "23817"
+        "BaseClass"                     "item_recipe_cyclone"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_cyclone_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_cyclone_9;item_cyclone_9"
+        }
+    }
+
