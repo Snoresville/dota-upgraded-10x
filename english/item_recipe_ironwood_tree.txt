@@ -1,2 +1,2 @@
-        "DOTA_Tooltip_ability_item_ironwood_tree_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_ironwood_tree_Lore"            "A bunch of sticks make a mighty faggot!"
 

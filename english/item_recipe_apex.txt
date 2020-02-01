@@ -1,2 +1,2 @@
-        "DOTA_Tooltip_ability_item_apex_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 

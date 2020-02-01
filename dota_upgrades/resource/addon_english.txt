@@ -346,39 +346,39 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
         "DOTA_Tooltip_Ability_item_apex_2"            "Apex 2"
         "DOTA_Tooltip_ability_item_apex_2_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_2_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_2_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_3"            "Apex 3"
         "DOTA_Tooltip_ability_item_apex_3_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_3_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_3_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_4"            "Apex 4"
         "DOTA_Tooltip_ability_item_apex_4_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_4_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_4_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_5"            "Apex 5"
         "DOTA_Tooltip_ability_item_apex_5_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_5_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_5_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_6"            "Apex 6"
         "DOTA_Tooltip_ability_item_apex_6_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_6_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_6_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_7"            "Apex 7"
         "DOTA_Tooltip_ability_item_apex_7_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_7_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_7_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_8"            "Apex 8"
         "DOTA_Tooltip_ability_item_apex_8_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_8_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_8_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_9"            "Apex 9"
         "DOTA_Tooltip_ability_item_apex_9_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_9_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_9_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_10"            "Apex 10"
         "DOTA_Tooltip_ability_item_apex_10_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_10_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_10_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         // -------------------------------------
         // Armlet Of Mordiggian
@@ -3853,7 +3853,8 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_rapier_10_Lore"            "So powerful, it cannot have a single owner."
         "DOTA_Tooltip_ability_item_rapier_10_bonus_damage"            "+$damage"
 
-        "DOTA_Tooltip_ability_item_apex_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
+
 
         "DOTA_Tooltip_ability_item_demonicon_Lore"            "Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages."
 
@@ -3862,13 +3863,17 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
         "DOTA_Tooltip_ability_item_fallen_sky_Lore"            "Used to be wielded by an Overlord from the Astral Plane, this item allowed extravagant entrances to promote wonder, and armageddon."
 
-        "DOTA_Tooltip_ability_item_ironwood_tree_Lore"            "Greatly enhances normal beings to match legendary seers."
+        "DOTA_Tooltip_ability_item_ironwood_tree_Lore"            "A bunch of sticks make a mighty faggot!"
+
 
         "DOTA_Tooltip_ability_item_mirror_shield_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+
+
 
         "DOTA_Tooltip_ability_item_seer_stone_Lore"            "Greatly enhances normal beings to match legendary seers."
 
         "DOTA_Tooltip_ability_item_trident_Lore"            "A treasure from the Deep Seas, uniformly increasing the user's combat proficiency."
+
 
         // -------------------------------------
         // Refresher Orb
