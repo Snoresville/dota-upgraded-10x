@@ -1,0 +1,2 @@
+        "DOTA_Tooltip_ability_item_seer_stone_Lore"            "Greatly enhances normal beings to match legendary seers."
+
