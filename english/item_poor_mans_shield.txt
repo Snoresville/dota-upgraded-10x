@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Poor Man's Shield
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_2"            "Poor Man's Shield 2"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_3"            "Poor Man's Shield 3"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_4"            "Poor Man's Shield 4"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_5"            "Poor Man's Shield 5"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_6"            "Poor Man's Shield 6"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_7"            "Poor Man's Shield 7"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_8"            "Poor Man's Shield 8"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_9"            "Poor Man's Shield 9"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_10"            "Poor Man's Shield 10"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_bonus_agility"            "+$agi"
+

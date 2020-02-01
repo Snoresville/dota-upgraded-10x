@@ -1,0 +1,49 @@
+        // -------------------------------------
+        // Mirror Shield
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_2"            "Mirror Shield 2"
+        "DOTA_Tooltip_ability_item_mirror_shield_2_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_2_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_2_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_3"            "Mirror Shield 3"
+        "DOTA_Tooltip_ability_item_mirror_shield_3_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_3_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_3_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_4"            "Mirror Shield 4"
+        "DOTA_Tooltip_ability_item_mirror_shield_4_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_4_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_4_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_5"            "Mirror Shield 5"
+        "DOTA_Tooltip_ability_item_mirror_shield_5_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_5_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_5_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_6"            "Mirror Shield 6"
+        "DOTA_Tooltip_ability_item_mirror_shield_6_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_6_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_6_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_7"            "Mirror Shield 7"
+        "DOTA_Tooltip_ability_item_mirror_shield_7_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_7_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_7_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_8"            "Mirror Shield 8"
+        "DOTA_Tooltip_ability_item_mirror_shield_8_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_8_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_8_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_9"            "Mirror Shield 9"
+        "DOTA_Tooltip_ability_item_mirror_shield_9_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_9_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_9_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_10"            "Mirror Shield 10"
+        "DOTA_Tooltip_ability_item_mirror_shield_10_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_10_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_10_all_stats"            "+$all"
+

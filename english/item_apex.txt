@@ -4,37 +4,37 @@
 
         "DOTA_Tooltip_Ability_item_apex_2"            "Apex 2"
         "DOTA_Tooltip_ability_item_apex_2_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_2_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_2_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_3"            "Apex 3"
         "DOTA_Tooltip_ability_item_apex_3_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_3_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_3_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_4"            "Apex 4"
         "DOTA_Tooltip_ability_item_apex_4_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_4_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_4_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_5"            "Apex 5"
         "DOTA_Tooltip_ability_item_apex_5_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_5_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_5_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_6"            "Apex 6"
         "DOTA_Tooltip_ability_item_apex_6_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_6_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_6_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_7"            "Apex 7"
         "DOTA_Tooltip_ability_item_apex_7_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_7_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_7_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_8"            "Apex 8"
         "DOTA_Tooltip_ability_item_apex_8_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_8_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_8_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_9"            "Apex 9"
         "DOTA_Tooltip_ability_item_apex_9_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_9_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_9_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 
         "DOTA_Tooltip_Ability_item_apex_10"            "Apex 10"
         "DOTA_Tooltip_ability_item_apex_10_Description"            "Increases your primary attribute by %primary_stat%."
-        "DOTA_Tooltip_ability_item_apex_10_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that are never possible before."
+        "DOTA_Tooltip_ability_item_apex_10_Lore"            "Innate energies from this artifact gather towards the most powerful areas of its bearer, allowing feats of power that were never possible before."
 

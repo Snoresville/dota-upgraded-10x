@@ -650,6 +650,46 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_assault_10_negative_buildings_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
 
         // -------------------------------------
+        // Ballista
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_ballista_2"            "Ballista 2"
+        "DOTA_Tooltip_ability_item_ballista_2_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_2_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_3"            "Ballista 3"
+        "DOTA_Tooltip_ability_item_ballista_3_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_3_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_4"            "Ballista 4"
+        "DOTA_Tooltip_ability_item_ballista_4_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_4_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_5"            "Ballista 5"
+        "DOTA_Tooltip_ability_item_ballista_5_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_5_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_6"            "Ballista 6"
+        "DOTA_Tooltip_ability_item_ballista_6_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_6_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_7"            "Ballista 7"
+        "DOTA_Tooltip_ability_item_ballista_7_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_7_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_8"            "Ballista 8"
+        "DOTA_Tooltip_ability_item_ballista_8_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_8_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_9"            "Ballista 9"
+        "DOTA_Tooltip_ability_item_ballista_9_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_9_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_10"            "Ballista 10"
+        "DOTA_Tooltip_ability_item_ballista_10_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_10_attack_range_bonus"            "+$attack_range"
+
+        // -------------------------------------
         // Battlefury
         // -------------------------------------
 
@@ -3022,6 +3062,55 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_mask_of_madness_10_berserk_Description"            "Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% and movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% but reduces armor by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and silences you."
 
         // -------------------------------------
+        // Mirror Shield
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_2"            "Mirror Shield 2"
+        "DOTA_Tooltip_ability_item_mirror_shield_2_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_2_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_2_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_3"            "Mirror Shield 3"
+        "DOTA_Tooltip_ability_item_mirror_shield_3_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_3_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_3_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_4"            "Mirror Shield 4"
+        "DOTA_Tooltip_ability_item_mirror_shield_4_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_4_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_4_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_5"            "Mirror Shield 5"
+        "DOTA_Tooltip_ability_item_mirror_shield_5_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_5_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_5_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_6"            "Mirror Shield 6"
+        "DOTA_Tooltip_ability_item_mirror_shield_6_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_6_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_6_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_7"            "Mirror Shield 7"
+        "DOTA_Tooltip_ability_item_mirror_shield_7_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_7_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_7_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_8"            "Mirror Shield 8"
+        "DOTA_Tooltip_ability_item_mirror_shield_8_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_8_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_8_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_9"            "Mirror Shield 9"
+        "DOTA_Tooltip_ability_item_mirror_shield_9_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_9_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_9_all_stats"            "+$all"
+
+        "DOTA_Tooltip_Ability_item_mirror_shield_10"            "Mirror Shield 10"
+        "DOTA_Tooltip_ability_item_mirror_shield_10_Description"            "<h1>Passive: Echo Shield</h1> Block and reflect most targeted spells back to their caster once every %block_cooldown% seconds."
+        "DOTA_Tooltip_ability_item_mirror_shield_10_Lore"            "These defensive items were commonly held by royalty of magical kingdoms, seeking to reflect any magical assassinations back to their would-be killers."
+        "DOTA_Tooltip_ability_item_mirror_shield_10_all_stats"            "+$all"
+
+        // -------------------------------------
         // Mjollnir
         // -------------------------------------
 
@@ -3662,6 +3751,64 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_pipe_10_magic_resistance"            "%+$spell_resist"
 
         // -------------------------------------
+        // Poor Man's Shield
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_2"            "Poor Man's Shield 2"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_2_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_3"            "Poor Man's Shield 3"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_3_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_4"            "Poor Man's Shield 4"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_4_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_5"            "Poor Man's Shield 5"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_5_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_6"            "Poor Man's Shield 6"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_6_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_7"            "Poor Man's Shield 7"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_7_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_8"            "Poor Man's Shield 8"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_8_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_9"            "Poor Man's Shield 9"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_9_bonus_agility"            "+$agi"
+
+        "DOTA_Tooltip_Ability_item_poor_mans_shield_10"            "Poor Man's Shield 10"
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Description"            "<h1>Passive: Damage Block</h1>Gives a 100% chance to block %damage_block_melee% damage from incoming attacks on melee heroes, and %damage_block_ranged% damage on ranged.<br><br>Has a %block_chance%%% chance to block damage from creeps."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Lore"            "A busted old shield that seems to block more than it should."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_Note0"            "Multiple sources of damage block do not stack."
+        "DOTA_Tooltip_ability_item_poor_mans_shield_10_bonus_agility"            "+$agi"
+
+        // -------------------------------------
         // Power Treads
         // -------------------------------------
 
@@ -3727,6 +3874,55 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_attack_speed"            "+$attack"
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_movement_speed"            "%+$move_speed"
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_stat"            "+$selected_attrib"
+
+        // -------------------------------------
+        // Pupil's Gift
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_2"            "Pupil's Gift 2"
+        "DOTA_Tooltip_ability_item_pupils_gift_2_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_2_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_2_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_3"            "Pupil's Gift 3"
+        "DOTA_Tooltip_ability_item_pupils_gift_3_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_3_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_3_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_4"            "Pupil's Gift 4"
+        "DOTA_Tooltip_ability_item_pupils_gift_4_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_4_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_4_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_5"            "Pupil's Gift 5"
+        "DOTA_Tooltip_ability_item_pupils_gift_5_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_5_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_5_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_6"            "Pupil's Gift 6"
+        "DOTA_Tooltip_ability_item_pupils_gift_6_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_6_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_6_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_7"            "Pupil's Gift 7"
+        "DOTA_Tooltip_ability_item_pupils_gift_7_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_7_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_7_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_8"            "Pupil's Gift 8"
+        "DOTA_Tooltip_ability_item_pupils_gift_8_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_8_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_8_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_9"            "Pupil's Gift 9"
+        "DOTA_Tooltip_ability_item_pupils_gift_9_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_9_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_9_secondary_stats"            "+SECONDARY STATS"
+
+        "DOTA_Tooltip_Ability_item_pupils_gift_10"            "Pupil's Gift 10"
+        "DOTA_Tooltip_ability_item_pupils_gift_10_Description"            "Increases both non-primary attributes."
+        "DOTA_Tooltip_ability_item_pupils_gift_10_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_pupils_gift_10_secondary_stats"            "+SECONDARY STATS"
 
         // -------------------------------------
         // Radiance
@@ -3870,10 +4066,12 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 
 
+
         "DOTA_Tooltip_ability_item_seer_stone_Lore"            "Greatly enhances normal beings to match legendary seers."
 
         "DOTA_Tooltip_ability_item_trident_Lore"            "A treasure from the Deep Seas, uniformly increasing the user's combat proficiency."
 
+        "DOTA_Tooltip_ability_item_vambrace_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
 
         // -------------------------------------
         // Refresher Orb
@@ -3932,6 +4130,127 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_refresher_10_Lore"            "A powerful artifact created for wizards."
         "DOTA_Tooltip_ability_item_refresher_10_bonus_health_regen"            "+$hp_regen"
         "DOTA_Tooltip_ability_item_refresher_10_bonus_mana_regen"            "+$mana_regen"
+
+        // -------------------------------------
+        // Ring of Aquila
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_2"            "Ring of Aquila 2"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_2_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_2_aura_bonus"            "Ring of Aquila 2 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_2_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_3"            "Ring of Aquila 3"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_3_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_3_aura_bonus"            "Ring of Aquila 3 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_3_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_4"            "Ring of Aquila 4"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_4_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_4_aura_bonus"            "Ring of Aquila 4 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_4_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_5"            "Ring of Aquila 5"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_5_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_5_aura_bonus"            "Ring of Aquila 5 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_5_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_6"            "Ring of Aquila 6"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_6_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_6_aura_bonus"            "Ring of Aquila 6 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_6_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_7"            "Ring of Aquila 7"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_7_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_7_aura_bonus"            "Ring of Aquila 7 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_7_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_8"            "Ring of Aquila 8"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_8_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_8_aura_bonus"            "Ring of Aquila 8 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_8_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_9"            "Ring of Aquila 9"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_9_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_9_aura_bonus"            "Ring of Aquila 9 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_9_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
+
+        "DOTA_Tooltip_Ability_item_ring_of_aquila_10"            "Ring of Aquila 10"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_Description"            "<h1>Passive: Aquila Aura</h1>Grants %aura_mana_regen% mana regeneration and %aura_bonus_armor% armor to nearby allies.<br><br>Radius: %aura_radius%
+<h1>Toggle: Aura</h1> Deactivate to stop affecting non-hero units."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_Lore"            "The ring of the fallen Warlord Aquila continues to support armies in battle."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_Note0"            "Does not stack with auras from Ring of Basilius or Ring of Aquila."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_Note1"            "Multiple instances of Aquila Aura do not stack."
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_bonus_strength"            "+$str"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_bonus_intellect"            "+$int"
+        "DOTA_Tooltip_ability_item_ring_of_aquila_10_bonus_damage"            "+$damage"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_10_aura_bonus"            "Ring of Aquila 10 Aura"
+        "DOTA_Tooltip_modifier_item_ring_of_aquila_10_aura_bonus_Description"            "Mana regeneration increased by %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT_UNIQUE% and armor increased by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS_UNIQUE%."
 
         // -------------------------------------
         // Rod of Atos
@@ -5136,6 +5455,91 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_trident_10_status_resistance"            "%+Status Resistance"
         "DOTA_Tooltip_ability_item_trident_10_spell_amp"            "%+Spell Amplification"
         "DOTA_Tooltip_ability_item_trident_10_manacost_reduction"            "%+Manacost and Manaloss Reduction"
+
+        // -------------------------------------
+        // Vambrace
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_vambrace_2"            "Vambrace 2"
+        "DOTA_Tooltip_ability_item_vambrace_2_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_2_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_2_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_2_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_3"            "Vambrace 3"
+        "DOTA_Tooltip_ability_item_vambrace_3_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_3_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_3_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_3_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_4"            "Vambrace 4"
+        "DOTA_Tooltip_ability_item_vambrace_4_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_4_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_4_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_4_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_5"            "Vambrace 5"
+        "DOTA_Tooltip_ability_item_vambrace_5_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_5_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_5_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_5_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_6"            "Vambrace 6"
+        "DOTA_Tooltip_ability_item_vambrace_6_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_6_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_6_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_6_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_7"            "Vambrace 7"
+        "DOTA_Tooltip_ability_item_vambrace_7_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_7_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_7_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_7_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_8"            "Vambrace 8"
+        "DOTA_Tooltip_ability_item_vambrace_8_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_8_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_8_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_8_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_9"            "Vambrace 9"
+        "DOTA_Tooltip_ability_item_vambrace_9_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_9_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_9_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_9_bonus_secondary_stat"            "+$Other Attributes"
+
+        "DOTA_Tooltip_Ability_item_vambrace_10"            "Vambrace 10"
+        "DOTA_Tooltip_ability_item_vambrace_10_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
+ <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
+ <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
+ <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_10_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
+        "DOTA_Tooltip_ability_item_vambrace_10_bonus_primary_stat"            "+$Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_10_bonus_secondary_stat"            "+$Other Attributes"
 
         // -------------------------------------
         // Veil of Discord

@@ -1,0 +1,846 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26100"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "2400"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1920"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "14"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "6"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "18"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "6"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "2400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "2.5"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "4"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26101"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila;item_ring_of_aquila"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26102"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "4800"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "3840"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "28"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "12"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "36"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "12"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "4800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "5"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "8"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26103"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_2;item_ring_of_aquila_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26104"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "9600"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "7680"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "56"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "24"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "72"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "24"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "9600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "10"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "16"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26105"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_3;item_ring_of_aquila_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26106"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "19200"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "15360"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "112"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "48"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "144"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "48"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "19200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "20"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "32"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26107"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_4;item_ring_of_aquila_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26108"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "38400"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "30720"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "224"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "96"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "288"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "96"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "38400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "40"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "64"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26109"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_5;item_ring_of_aquila_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26110"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "76800"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "61440"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "448"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "192"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "576"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "192"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "76800"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "80"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "128"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26111"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_6;item_ring_of_aquila_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26112"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "153600"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "122880"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "896"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "384"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "1152"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "384"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "153600"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "160"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "256"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26113"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_7;item_ring_of_aquila_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26114"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "307200"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "245760"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "1792"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "768"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "2304"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "768"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "307200"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "320"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "512"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26115"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_8;item_ring_of_aquila_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Ring of Aquila 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_ring_of_aquila_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26116"
+        "BaseClass"                     "item_ring_of_aquila"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_TOGGLE"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "614400"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "491520"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+        "ActiveDescriptionLine"                     "2"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_damage"        "3584"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_strength"        "1536"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agility"        "4608"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_intellect"        "1536"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_radius"        "614400"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "aura_mana_regen"        "640"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "aura_bonus_armor"        "1024"
+            }
+        }
+    }
+
+    "item_recipe_ring_of_aquila_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26117"
+        "BaseClass"                     "item_recipe_ring_of_aquila"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_ring_of_aquila_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_ring_of_aquila_9;item_ring_of_aquila_9"
+        }
+    }
+

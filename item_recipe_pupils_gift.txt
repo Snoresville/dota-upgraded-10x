@@ -1,27 +1,29 @@
     // -------------------------------------------------------------------------------------------------------------
-    // Vambrace
+    // Pupil's Gift
     // -------------------------------------------------------------------------------------------------------------
-    "item_vambrace"
+    "item_pupils_gift"
     {
         // General
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"            "660"
+        "ItemCost"            "1150"
         "ItemIsNeutralDrop"            "0"
         "ItemPurchasable"            "1"
     }
 
     // -------------------------------------------------------------------------------------------------------------
-    // Vambrace Recipe
+    // Pupil's Gift Recipe
     // -------------------------------------------------------------------------------------------------------------
-    "item_recipe_vambrace"
+    "item_recipe_pupils_gift"
     {
         // General
         // -------------------------------------------------------------------------------------------------------------
+        "ID"                     "28999"
         "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
+        "BaseClass"                     "item_datadriven"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -33,12 +35,12 @@
         // Recipe
         // -------------------------------------------------------------------------------------------------------------
         "ItemRecipe"                     "1"
-        "ItemResult"                     "item_vambrace"
+        "ItemResult"                     "item_pupils_gift"
         "ItemRequirements"
         {
-            "01"                        "item_bracer;item_ironwood_tree"
-            "02"                        "item_null_talisman;item_ironwood_tree"
-            "03"                        "item_wraith_band;item_ironwood_tree"
+            "01"                        "item_ogre_axe;item_blade_of_alacrity;item_ironwood_tree"
+            "02"                        "item_ogre_axe;item_staff_of_wizardry;item_ironwood_tree"
+            "03"                        "item_blade_of_alacrity;item_staff_of_wizardry;item_ironwood_tree"
         }
     }
 

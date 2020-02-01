@@ -1,0 +1,40 @@
+        // -------------------------------------
+        // Ballista
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_ballista_2"            "Ballista 2"
+        "DOTA_Tooltip_ability_item_ballista_2_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_2_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_3"            "Ballista 3"
+        "DOTA_Tooltip_ability_item_ballista_3_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_3_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_4"            "Ballista 4"
+        "DOTA_Tooltip_ability_item_ballista_4_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_4_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_5"            "Ballista 5"
+        "DOTA_Tooltip_ability_item_ballista_5_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_5_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_6"            "Ballista 6"
+        "DOTA_Tooltip_ability_item_ballista_6_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_6_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_7"            "Ballista 7"
+        "DOTA_Tooltip_ability_item_ballista_7_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_7_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_8"            "Ballista 8"
+        "DOTA_Tooltip_ability_item_ballista_8_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_8_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_9"            "Ballista 9"
+        "DOTA_Tooltip_ability_item_ballista_9_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_9_attack_range_bonus"            "+$attack_range"
+
+        "DOTA_Tooltip_Ability_item_ballista_10"            "Ballista 10"
+        "DOTA_Tooltip_ability_item_ballista_10_Description"            "<h1>Passive: Knockback</h1> Knocks back enemies %knockback_distance% distance and deals %bonus_damage% pure damage with every attack."
+        "DOTA_Tooltip_ability_item_ballista_10_attack_range_bonus"            "+$attack_range"
+
