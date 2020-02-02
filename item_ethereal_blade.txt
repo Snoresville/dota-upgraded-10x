@@ -21,7 +21,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "200"
         "ItemCost"                      "9400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -128,7 +128,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "400"
         "ItemCost"                      "18800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -235,7 +235,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "800"
         "ItemCost"                      "37600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -342,7 +342,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "1600"
         "ItemCost"                      "75200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -449,7 +449,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "3200"
         "ItemCost"                      "150400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -556,7 +556,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "6400"
         "ItemCost"                      "300800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -663,7 +663,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "12800"
         "ItemCost"                      "601600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -770,7 +770,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "25600"
         "ItemCost"                      "1203200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -877,7 +877,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "100"
+        "AbilityManaCost"                     "51200"
         "ItemCost"                      "2406400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
