@@ -4,46 +4,37 @@
 
         "DOTA_Tooltip_Ability_item_pupils_gift_2"            "Pupil's Gift 2"
         "DOTA_Tooltip_ability_item_pupils_gift_2_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_2_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_2_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_3"            "Pupil's Gift 3"
         "DOTA_Tooltip_ability_item_pupils_gift_3_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_3_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_3_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_4"            "Pupil's Gift 4"
         "DOTA_Tooltip_ability_item_pupils_gift_4_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_4_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_4_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_5"            "Pupil's Gift 5"
         "DOTA_Tooltip_ability_item_pupils_gift_5_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_5_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_5_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_6"            "Pupil's Gift 6"
         "DOTA_Tooltip_ability_item_pupils_gift_6_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_6_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_6_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_7"            "Pupil's Gift 7"
         "DOTA_Tooltip_ability_item_pupils_gift_7_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_7_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_7_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_8"            "Pupil's Gift 8"
         "DOTA_Tooltip_ability_item_pupils_gift_8_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_8_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_8_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_9"            "Pupil's Gift 9"
         "DOTA_Tooltip_ability_item_pupils_gift_9_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_9_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_9_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_10"            "Pupil's Gift 10"
         "DOTA_Tooltip_ability_item_pupils_gift_10_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_10_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_10_secondary_stats"            "+SECONDARY STATS"
 

@@ -3276,7 +3276,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         // -------------------------------------
 
         "DOTA_Tooltip_Ability_item_moon_shard_2"            "Moon Shard 2"
-        "DOTA_Tooltip_ability_item_moon_shard_2_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 2 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_2_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 2 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_2_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_2_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_2_bonus_attack_speed"            "+$attack"
@@ -3285,7 +3285,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_2_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 2."
 
         "DOTA_Tooltip_Ability_item_moon_shard_3"            "Moon Shard 3"
-        "DOTA_Tooltip_ability_item_moon_shard_3_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 3 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_3_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 3 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_3_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_3_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_3_bonus_attack_speed"            "+$attack"
@@ -3294,7 +3294,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_3_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 3."
 
         "DOTA_Tooltip_Ability_item_moon_shard_4"            "Moon Shard 4"
-        "DOTA_Tooltip_ability_item_moon_shard_4_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 4 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_4_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 4 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_4_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_4_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_4_bonus_attack_speed"            "+$attack"
@@ -3303,7 +3303,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_4_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 4."
 
         "DOTA_Tooltip_Ability_item_moon_shard_5"            "Moon Shard 5"
-        "DOTA_Tooltip_ability_item_moon_shard_5_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 5 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_5_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 5 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_5_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_5_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_5_bonus_attack_speed"            "+$attack"
@@ -3312,7 +3312,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_5_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 5."
 
         "DOTA_Tooltip_Ability_item_moon_shard_6"            "Moon Shard 6"
-        "DOTA_Tooltip_ability_item_moon_shard_6_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 6 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_6_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 6 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_6_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_6_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_6_bonus_attack_speed"            "+$attack"
@@ -3321,7 +3321,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_6_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 6."
 
         "DOTA_Tooltip_Ability_item_moon_shard_7"            "Moon Shard 7"
-        "DOTA_Tooltip_ability_item_moon_shard_7_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 7 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_7_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 7 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_7_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_7_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_7_bonus_attack_speed"            "+$attack"
@@ -3330,7 +3330,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_7_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 7."
 
         "DOTA_Tooltip_Ability_item_moon_shard_8"            "Moon Shard 8"
-        "DOTA_Tooltip_ability_item_moon_shard_8_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 8 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_8_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 8 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_8_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_8_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_8_bonus_attack_speed"            "+$attack"
@@ -3339,7 +3339,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_8_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 8."
 
         "DOTA_Tooltip_Ability_item_moon_shard_9"            "Moon Shard 9"
-        "DOTA_Tooltip_ability_item_moon_shard_9_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 9 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_9_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 9 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_9_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_9_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_9_bonus_attack_speed"            "+$attack"
@@ -3348,7 +3348,7 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_9_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 9."
 
         "DOTA_Tooltip_Ability_item_moon_shard_10"            "Moon Shard 10"
-        "DOTA_Tooltip_ability_item_moon_shard_10_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 10 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. Max 1 use.\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
+        "DOTA_Tooltip_ability_item_moon_shard_10_Description"            "<h1>Use: Consume</h1> Consume the Moon Shard 10 to permanently gain %consumed_bonus% attack speed and %consumed_bonus_night_vision% bonus night vision. <font color='#e03e2e'>Only one Moon Shard of any kind can be consumed.</font>\n<h1>Passive: Shade Sight</h1>Grants %bonus_night_vision% bonus night vision."
         "DOTA_Tooltip_ability_item_moon_shard_10_Lore"            "Said to be a tear from the lunar goddess Selemene."
         "DOTA_Tooltip_ability_item_moon_shard_10_Note0"            "The bonus night vision works during Night Stalker's Darkness ability."
         "DOTA_Tooltip_ability_item_moon_shard_10_bonus_attack_speed"            "+$attack"
@@ -3881,47 +3881,38 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
         "DOTA_Tooltip_Ability_item_pupils_gift_2"            "Pupil's Gift 2"
         "DOTA_Tooltip_ability_item_pupils_gift_2_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_2_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_2_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_3"            "Pupil's Gift 3"
         "DOTA_Tooltip_ability_item_pupils_gift_3_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_3_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_3_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_4"            "Pupil's Gift 4"
         "DOTA_Tooltip_ability_item_pupils_gift_4_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_4_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_4_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_5"            "Pupil's Gift 5"
         "DOTA_Tooltip_ability_item_pupils_gift_5_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_5_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_5_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_6"            "Pupil's Gift 6"
         "DOTA_Tooltip_ability_item_pupils_gift_6_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_6_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_6_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_7"            "Pupil's Gift 7"
         "DOTA_Tooltip_ability_item_pupils_gift_7_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_7_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_7_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_8"            "Pupil's Gift 8"
         "DOTA_Tooltip_ability_item_pupils_gift_8_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_8_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_8_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_9"            "Pupil's Gift 9"
         "DOTA_Tooltip_ability_item_pupils_gift_9_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_9_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_9_secondary_stats"            "+SECONDARY STATS"
 
         "DOTA_Tooltip_Ability_item_pupils_gift_10"            "Pupil's Gift 10"
         "DOTA_Tooltip_ability_item_pupils_gift_10_Description"            "Increases both non-primary attributes."
-        "DOTA_Tooltip_ability_item_pupils_gift_10_bonus_secondary_stat"            "+$Other Attributes"
         "DOTA_Tooltip_ability_item_pupils_gift_10_secondary_stats"            "+SECONDARY STATS"
 
         // -------------------------------------
@@ -5461,85 +5452,58 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         // -------------------------------------
 
         "DOTA_Tooltip_Ability_item_vambrace_2"            "Vambrace 2"
-        "DOTA_Tooltip_ability_item_vambrace_2_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_2_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_2_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_2_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_2_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_2_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_2_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_3"            "Vambrace 3"
-        "DOTA_Tooltip_ability_item_vambrace_3_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_3_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_3_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_3_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_3_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_3_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_3_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_4"            "Vambrace 4"
-        "DOTA_Tooltip_ability_item_vambrace_4_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_4_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_4_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_4_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_4_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_4_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_4_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_5"            "Vambrace 5"
-        "DOTA_Tooltip_ability_item_vambrace_5_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_5_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_5_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_5_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_5_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_5_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_5_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_6"            "Vambrace 6"
-        "DOTA_Tooltip_ability_item_vambrace_6_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_6_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_6_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_6_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_6_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_6_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_6_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_7"            "Vambrace 7"
-        "DOTA_Tooltip_ability_item_vambrace_7_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_7_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_7_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_7_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_7_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_7_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_7_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_8"            "Vambrace 8"
-        "DOTA_Tooltip_ability_item_vambrace_8_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_8_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_8_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_8_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_8_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_8_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_8_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_9"            "Vambrace 9"
-        "DOTA_Tooltip_ability_item_vambrace_9_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_9_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_9_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_9_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_9_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_9_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_9_bonus_secondary_stat"            "+Other Attributes"
 
         "DOTA_Tooltip_Ability_item_vambrace_10"            "Vambrace 10"
-        "DOTA_Tooltip_ability_item_vambrace_10_Description"            "Also provides one of the following, based on the Vambrace's main attribute:
- <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance 
- <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed 
- <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
+        "DOTA_Tooltip_ability_item_vambrace_10_Description"            "Also provides one of the following, based on the Vambrace's main attribute:\n <font color='#ec3d06'>Strength:</font> +%bonus_magic_resistance%%% Magic Resistance \n <font color='#3ed038'>Agility:</font> +%bonus_attack_speed% Attack Speed \n <font color='#00d9ec'>Intelligence:</font> +%bonus_spell_amp%%% Spell Amp"
         "DOTA_Tooltip_ability_item_vambrace_10_Lore"            "A pair of tough-skinned vambraces that change to meet the demands of the wearer."
-        "DOTA_Tooltip_ability_item_vambrace_10_bonus_primary_stat"            "+$Main Vambrace Attribute"
-        "DOTA_Tooltip_ability_item_vambrace_10_bonus_secondary_stat"            "+$Other Attributes"
+        "DOTA_Tooltip_ability_item_vambrace_10_bonus_primary_stat"            "+Main Vambrace Attribute"
+        "DOTA_Tooltip_ability_item_vambrace_10_bonus_secondary_stat"            "+Other Attributes"
 
         // -------------------------------------
         // Veil of Discord

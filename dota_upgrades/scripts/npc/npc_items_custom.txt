@@ -35704,7 +35704,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2300"
+        "ItemCost"                      "4300"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -35715,7 +35715,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "26"
+                "secondary_stats"        "26"
             }
         }
     }
@@ -35761,7 +35761,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4600"
+        "ItemCost"                      "8600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -35772,7 +35772,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "52"
+                "secondary_stats"        "52"
             }
         }
     }
@@ -35818,7 +35818,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "9200"
+        "ItemCost"                      "17200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -35829,7 +35829,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "104"
+                "secondary_stats"        "104"
             }
         }
     }
@@ -35875,7 +35875,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "18400"
+        "ItemCost"                      "34400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -35886,7 +35886,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "208"
+                "secondary_stats"        "208"
             }
         }
     }
@@ -35932,7 +35932,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "36800"
+        "ItemCost"                      "68800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -35943,7 +35943,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "416"
+                "secondary_stats"        "416"
             }
         }
     }
@@ -35989,7 +35989,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "73600"
+        "ItemCost"                      "137600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36000,7 +36000,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "832"
+                "secondary_stats"        "832"
             }
         }
     }
@@ -36046,7 +36046,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "147200"
+        "ItemCost"                      "275200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36057,7 +36057,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "1664"
+                "secondary_stats"        "1664"
             }
         }
     }
@@ -36103,7 +36103,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "294400"
+        "ItemCost"                      "550400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36114,7 +36114,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "3328"
+                "secondary_stats"        "3328"
             }
         }
     }
@@ -36160,7 +36160,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "588800"
+        "ItemCost"                      "1100800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36171,7 +36171,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_secondary_stats"        "6656"
+                "secondary_stats"        "6656"
             }
         }
     }
