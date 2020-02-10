@@ -1,0 +1,49 @@
+        // -------------------------------------
+        // Ninja Gear
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_2"            "Ninja Gear 2"
+        "DOTA_Tooltip_ability_item_ninja_gear_2_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_2_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_2_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_3"            "Ninja Gear 3"
+        "DOTA_Tooltip_ability_item_ninja_gear_3_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_3_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_3_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_4"            "Ninja Gear 4"
+        "DOTA_Tooltip_ability_item_ninja_gear_4_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_4_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_4_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_5"            "Ninja Gear 5"
+        "DOTA_Tooltip_ability_item_ninja_gear_5_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_5_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_5_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_6"            "Ninja Gear 6"
+        "DOTA_Tooltip_ability_item_ninja_gear_6_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_6_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_6_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_7"            "Ninja Gear 7"
+        "DOTA_Tooltip_ability_item_ninja_gear_7_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_7_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_7_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_8"            "Ninja Gear 8"
+        "DOTA_Tooltip_ability_item_ninja_gear_8_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_8_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_8_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_9"            "Ninja Gear 9"
+        "DOTA_Tooltip_ability_item_ninja_gear_9_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_9_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_9_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_10"            "Ninja Gear 10"
+        "DOTA_Tooltip_ability_item_ninja_gear_10_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_10_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_10_passive_movement_bonus"            "+$move_speed"
+

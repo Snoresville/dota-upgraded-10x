@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Titan Silver
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_titan_silver_2"            "Titan Silver 2"
+        "DOTA_Tooltip_ability_item_titan_silver_2_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_2_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_2_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_2_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_3"            "Titan Silver 3"
+        "DOTA_Tooltip_ability_item_titan_silver_3_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_3_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_3_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_3_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_4"            "Titan Silver 4"
+        "DOTA_Tooltip_ability_item_titan_silver_4_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_4_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_4_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_4_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_5"            "Titan Silver 5"
+        "DOTA_Tooltip_ability_item_titan_silver_5_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_5_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_5_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_5_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_6"            "Titan Silver 6"
+        "DOTA_Tooltip_ability_item_titan_silver_6_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_6_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_6_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_6_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_7"            "Titan Silver 7"
+        "DOTA_Tooltip_ability_item_titan_silver_7_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_7_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_7_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_7_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_8"            "Titan Silver 8"
+        "DOTA_Tooltip_ability_item_titan_silver_8_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_8_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_8_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_8_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_9"            "Titan Silver 9"
+        "DOTA_Tooltip_ability_item_titan_silver_9_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_9_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_9_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_9_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_10"            "Titan Silver 10"
+        "DOTA_Tooltip_ability_item_titan_silver_10_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_10_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_10_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_10_status_resistance"            "%+status_resist"
+

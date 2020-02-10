@@ -1,0 +1,40 @@
+        // -------------------------------------
+        // The Leveller
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_the_leveller_2"            "The Leveller 2"
+        "DOTA_Tooltip_ability_item_the_leveller_2_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_2_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_3"            "The Leveller 3"
+        "DOTA_Tooltip_ability_item_the_leveller_3_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_3_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_4"            "The Leveller 4"
+        "DOTA_Tooltip_ability_item_the_leveller_4_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_4_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_5"            "The Leveller 5"
+        "DOTA_Tooltip_ability_item_the_leveller_5_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_5_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_6"            "The Leveller 6"
+        "DOTA_Tooltip_ability_item_the_leveller_6_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_6_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_7"            "The Leveller 7"
+        "DOTA_Tooltip_ability_item_the_leveller_7_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_7_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_8"            "The Leveller 8"
+        "DOTA_Tooltip_ability_item_the_leveller_8_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_8_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_9"            "The Leveller 9"
+        "DOTA_Tooltip_ability_item_the_leveller_9_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_9_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_10"            "The Leveller 10"
+        "DOTA_Tooltip_ability_item_the_leveller_10_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_10_demolish"            "%BONUS BUILDING DAMAGE:"
+

@@ -1,0 +1,58 @@
+        // -------------------------------------
+        // Prince's Knife
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_princes_knife_2"            "Prince's Knife 2"
+        "DOTA_Tooltip_ability_item_princes_knife_2_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_2_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_2_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_2_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_3"            "Prince's Knife 3"
+        "DOTA_Tooltip_ability_item_princes_knife_3_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_3_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_3_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_3_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_4"            "Prince's Knife 4"
+        "DOTA_Tooltip_ability_item_princes_knife_4_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_4_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_4_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_4_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_5"            "Prince's Knife 5"
+        "DOTA_Tooltip_ability_item_princes_knife_5_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_5_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_5_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_5_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_6"            "Prince's Knife 6"
+        "DOTA_Tooltip_ability_item_princes_knife_6_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_6_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_6_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_6_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_7"            "Prince's Knife 7"
+        "DOTA_Tooltip_ability_item_princes_knife_7_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_7_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_7_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_7_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_8"            "Prince's Knife 8"
+        "DOTA_Tooltip_ability_item_princes_knife_8_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_8_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_8_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_8_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_9"            "Prince's Knife 9"
+        "DOTA_Tooltip_ability_item_princes_knife_9_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_9_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_9_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_9_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_10"            "Prince's Knife 10"
+        "DOTA_Tooltip_ability_item_princes_knife_10_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_10_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_10_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_10_projectile_bonus"            "%+Attack Projectile Speed"
+

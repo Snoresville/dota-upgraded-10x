@@ -3509,6 +3509,55 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_moon_shard_10_consumed_Description_Dashboard"            "Attack speed and night vision increased after consuming a Moon Shard 10."
 
         // -------------------------------------
+        // Ninja Gear
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_2"            "Ninja Gear 2"
+        "DOTA_Tooltip_ability_item_ninja_gear_2_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_2_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_2_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_3"            "Ninja Gear 3"
+        "DOTA_Tooltip_ability_item_ninja_gear_3_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_3_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_3_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_4"            "Ninja Gear 4"
+        "DOTA_Tooltip_ability_item_ninja_gear_4_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_4_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_4_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_5"            "Ninja Gear 5"
+        "DOTA_Tooltip_ability_item_ninja_gear_5_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_5_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_5_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_6"            "Ninja Gear 6"
+        "DOTA_Tooltip_ability_item_ninja_gear_6_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_6_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_6_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_7"            "Ninja Gear 7"
+        "DOTA_Tooltip_ability_item_ninja_gear_7_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_7_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_7_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_8"            "Ninja Gear 8"
+        "DOTA_Tooltip_ability_item_ninja_gear_8_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_8_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_8_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_9"            "Ninja Gear 9"
+        "DOTA_Tooltip_ability_item_ninja_gear_9_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_9_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_9_passive_movement_bonus"            "+$move_speed"
+
+        "DOTA_Tooltip_Ability_item_ninja_gear_10"            "Ninja Gear 10"
+        "DOTA_Tooltip_ability_item_ninja_gear_10_Description"            "<h1>Active: Solitary Disguise</h1> Casts Smoke of Deceit on yourself only."
+        "DOTA_Tooltip_ability_item_ninja_gear_10_bonus_agility"            "+$agi"
+        "DOTA_Tooltip_ability_item_ninja_gear_10_passive_movement_bonus"            "+$move_speed"
+
+        // -------------------------------------
         // Nullifier
         // -------------------------------------
 
@@ -3677,6 +3726,91 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_octarine_core_10_bonus_health"            "+$health"
         "DOTA_Tooltip_ability_item_octarine_core_10_bonus_mana"            "+$mana"
         "DOTA_Tooltip_ability_item_octarine_core_10_bonus_intelligence"            "+$int"
+
+        // -------------------------------------
+        // Orb of Destruction
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_2"            "Orb of Destruction 2"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_2_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_2_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_2_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_2_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_2_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_2_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_2_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_3"            "Orb of Destruction 3"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_3_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_3_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_3_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_3_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_3_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_3_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_3_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_4"            "Orb of Destruction 4"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_4_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_4_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_4_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_4_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_4_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_4_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_4_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_5"            "Orb of Destruction 5"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_5_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_5_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_5_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_5_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_5_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_5_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_5_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_6"            "Orb of Destruction 6"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_6_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_6_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_6_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_6_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_6_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_6_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_6_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_7"            "Orb of Destruction 7"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_7_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_7_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_7_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_7_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_7_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_7_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_7_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_8"            "Orb of Destruction 8"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_8_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_8_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_8_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_8_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_8_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_8_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_8_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_9"            "Orb of Destruction 9"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_9_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_9_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_9_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_9_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_9_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_9_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_9_duration"            "DURATION:"
+
+        "DOTA_Tooltip_Ability_item_orb_of_destruction_10"            "Orb of Destruction 10"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_10_Description"            "<h1>Passive: Impeding Corruption</h1> Attacks reduce the target's armor and movement speed. Slow amount varies based on whether the wearer is melee or ranged."
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_10_debuff"            "Impeding Corruption"
+        "DOTA_Tooltip_modifier_item_orb_of_destruction_10_debuff_Description"            "Armor reduced by %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS% and movement speed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+        "DOTA_Tooltip_ability_item_orb_of_destruction_10_armor_reduction"            "ARMOR REDUCTION:"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_10_slow_melee"            "%SLOW (MELEE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_10_slow_range"            "%SLOW (RANGE):"
+        "DOTA_Tooltip_ability_item_orb_of_destruction_10_duration"            "DURATION:"
 
         // -------------------------------------
         // Phase Boots
@@ -3903,6 +4037,46 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_pipe_10_magic_resistance"            "%+$spell_resist"
 
         // -------------------------------------
+        // Pirate Hat
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_2"            "Pirate Hat 2"
+        "DOTA_Tooltip_ability_item_pirate_hat_2_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_2_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_3"            "Pirate Hat 3"
+        "DOTA_Tooltip_ability_item_pirate_hat_3_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_3_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_4"            "Pirate Hat 4"
+        "DOTA_Tooltip_ability_item_pirate_hat_4_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_4_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_5"            "Pirate Hat 5"
+        "DOTA_Tooltip_ability_item_pirate_hat_5_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_5_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_6"            "Pirate Hat 6"
+        "DOTA_Tooltip_ability_item_pirate_hat_6_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_6_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_7"            "Pirate Hat 7"
+        "DOTA_Tooltip_ability_item_pirate_hat_7_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_7_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_8"            "Pirate Hat 8"
+        "DOTA_Tooltip_ability_item_pirate_hat_8_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_8_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_9"            "Pirate Hat 9"
+        "DOTA_Tooltip_ability_item_pirate_hat_9_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_9_bonus_attack_speed"            "+$attack"
+
+        "DOTA_Tooltip_Ability_item_pirate_hat_10"            "Pirate Hat 10"
+        "DOTA_Tooltip_ability_item_pirate_hat_10_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_10_bonus_attack_speed"            "+$attack"
+
+        // -------------------------------------
         // Poor Man's Shield
         // -------------------------------------
 
@@ -4026,6 +4200,64 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_attack_speed"            "+$attack"
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_movement_speed"            "%+$move_speed"
         "DOTA_Tooltip_ability_item_power_treads_10_bonus_stat"            "+$selected_attrib"
+
+        // -------------------------------------
+        // Prince's Knife
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_princes_knife_2"            "Prince's Knife 2"
+        "DOTA_Tooltip_ability_item_princes_knife_2_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_2_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_2_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_2_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_3"            "Prince's Knife 3"
+        "DOTA_Tooltip_ability_item_princes_knife_3_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_3_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_3_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_3_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_4"            "Prince's Knife 4"
+        "DOTA_Tooltip_ability_item_princes_knife_4_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_4_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_4_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_4_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_5"            "Prince's Knife 5"
+        "DOTA_Tooltip_ability_item_princes_knife_5_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_5_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_5_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_5_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_6"            "Prince's Knife 6"
+        "DOTA_Tooltip_ability_item_princes_knife_6_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_6_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_6_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_6_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_7"            "Prince's Knife 7"
+        "DOTA_Tooltip_ability_item_princes_knife_7_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_7_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_7_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_7_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_8"            "Prince's Knife 8"
+        "DOTA_Tooltip_ability_item_princes_knife_8_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_8_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_8_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_8_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_9"            "Prince's Knife 9"
+        "DOTA_Tooltip_ability_item_princes_knife_9_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_9_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_9_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_9_projectile_bonus"            "%+Attack Projectile Speed"
+
+        "DOTA_Tooltip_Ability_item_princes_knife_10"            "Prince's Knife 10"
+        "DOTA_Tooltip_ability_item_princes_knife_10_Description"            "<h1>Passive: Hex Strike</h1> The next attack hexes the hit enemy into a frog for %duration% seconds."
+        "DOTA_Tooltip_modifier_item_princes_knife_10_hex"            "Hexed"
+        "DOTA_Tooltip_modifier_item_princes_knife_10_hex_Description"            "Temporarily not royalty"
+        "DOTA_Tooltip_ability_item_princes_knife_10_projectile_bonus"            "%+Attack Projectile Speed"
 
         // -------------------------------------
         // Pupil's Gift
@@ -4212,7 +4444,14 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 
 
+
+
+
+
         "DOTA_Tooltip_ability_item_seer_stone_Lore"            "Greatly enhances normal beings to match legendary seers."
+
+
+
 
         "DOTA_Tooltip_ability_item_trident_Lore"            "A treasure from the Deep Seas, uniformly increasing the user's combat proficiency."
 
@@ -5235,6 +5474,73 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_soul_ring_10_buff_Description"            "Mana increased at the cost of health. Extra mana will be lost at the end of Sacrifice's duration."
 
         // -------------------------------------
+        // Spider Legs
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_spider_legs_2"            "Spider Legs 2"
+        "DOTA_Tooltip_ability_item_spider_legs_2_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_2_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_2_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_2_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_2_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_3"            "Spider Legs 3"
+        "DOTA_Tooltip_ability_item_spider_legs_3_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_3_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_3_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_3_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_3_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_4"            "Spider Legs 4"
+        "DOTA_Tooltip_ability_item_spider_legs_4_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_4_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_4_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_4_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_4_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_5"            "Spider Legs 5"
+        "DOTA_Tooltip_ability_item_spider_legs_5_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_5_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_5_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_5_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_5_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_6"            "Spider Legs 6"
+        "DOTA_Tooltip_ability_item_spider_legs_6_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_6_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_6_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_6_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_6_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_7"            "Spider Legs 7"
+        "DOTA_Tooltip_ability_item_spider_legs_7_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_7_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_7_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_7_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_7_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_8"            "Spider Legs 8"
+        "DOTA_Tooltip_ability_item_spider_legs_8_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_8_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_8_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_8_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_8_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_9"            "Spider Legs 9"
+        "DOTA_Tooltip_ability_item_spider_legs_9_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_9_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_9_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_9_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_9_turn_rate"            "+Turn Rate"
+
+        "DOTA_Tooltip_Ability_item_spider_legs_10"            "Spider Legs 10"
+        "DOTA_Tooltip_ability_item_spider_legs_10_Description"            "<h1>Active: Scurry</h1> Grants you %bonus_movement_speed_active%% bonus movement speed and free pathing for %duration% seconds. Walking over trees causes them to be destroyed.\nMovement speed bonuses from multiple pairs of boots do not stack."
+        "DOTA_Tooltip_ability_item_spider_legs_10_bonus_movement_speed"            "+$move_speed"
+        "DOTA_Tooltip_modifier_item_spider_legs_10_active"            "Scurry"
+        "DOTA_Tooltip_modifier_item_spider_legs_10_active_Description"            "Movement speed increased by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT% and has free pathing."
+        "DOTA_Tooltip_ability_item_spider_legs_10_turn_rate"            "+Turn Rate"
+
+        // -------------------------------------
         // Spirit Vessel
         // -------------------------------------
 
@@ -5363,6 +5669,104 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_modifier_item_spirit_vessel_10_damage"            "Spirit Vessel 10 Damage"
         "DOTA_Tooltip_modifier_item_spirit_vessel_10_damage_Description"            "Losing %dMODIFIER_PROPERTY_TOOLTIP% HP plus %dMODIFIER_PROPERTY_TOOLTIP%%% of current health per second. All heals reduced by %dMODIFIER_PROPERTY_HP_REGEN_AMPLIFY_PERCENTAGE%%%."
         "DOTA_Tooltip_ability_item_spirit_vessel_10_mana_regen"            "+$mana_regen"
+
+        // -------------------------------------
+        // The Leveller
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_the_leveller_2"            "The Leveller 2"
+        "DOTA_Tooltip_ability_item_the_leveller_2_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_2_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_3"            "The Leveller 3"
+        "DOTA_Tooltip_ability_item_the_leveller_3_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_3_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_4"            "The Leveller 4"
+        "DOTA_Tooltip_ability_item_the_leveller_4_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_4_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_5"            "The Leveller 5"
+        "DOTA_Tooltip_ability_item_the_leveller_5_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_5_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_6"            "The Leveller 6"
+        "DOTA_Tooltip_ability_item_the_leveller_6_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_6_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_7"            "The Leveller 7"
+        "DOTA_Tooltip_ability_item_the_leveller_7_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_7_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_8"            "The Leveller 8"
+        "DOTA_Tooltip_ability_item_the_leveller_8_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_8_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_9"            "The Leveller 9"
+        "DOTA_Tooltip_ability_item_the_leveller_9_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_9_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        "DOTA_Tooltip_Ability_item_the_leveller_10"            "The Leveller 10"
+        "DOTA_Tooltip_ability_item_the_leveller_10_bonus_attack_speed"            "+$attack"
+        "DOTA_Tooltip_ability_item_the_leveller_10_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        // -------------------------------------
+        // Titan Silver
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_titan_silver_2"            "Titan Silver 2"
+        "DOTA_Tooltip_ability_item_titan_silver_2_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_2_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_2_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_2_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_3"            "Titan Silver 3"
+        "DOTA_Tooltip_ability_item_titan_silver_3_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_3_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_3_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_3_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_4"            "Titan Silver 4"
+        "DOTA_Tooltip_ability_item_titan_silver_4_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_4_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_4_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_4_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_5"            "Titan Silver 5"
+        "DOTA_Tooltip_ability_item_titan_silver_5_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_5_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_5_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_5_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_6"            "Titan Silver 6"
+        "DOTA_Tooltip_ability_item_titan_silver_6_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_6_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_6_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_6_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_7"            "Titan Silver 7"
+        "DOTA_Tooltip_ability_item_titan_silver_7_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_7_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_7_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_7_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_8"            "Titan Silver 8"
+        "DOTA_Tooltip_ability_item_titan_silver_8_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_8_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_8_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_8_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_9"            "Titan Silver 9"
+        "DOTA_Tooltip_ability_item_titan_silver_9_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_9_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_9_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_9_status_resistance"            "%+status_resist"
+
+        "DOTA_Tooltip_Ability_item_titan_silver_10"            "Titan Silver 10"
+        "DOTA_Tooltip_ability_item_titan_silver_10_Description"            "Increases the wearer's attack damage, magic and status resistance."
+        "DOTA_Tooltip_ability_item_titan_silver_10_base_attack_damage"            "%+Base Attack Damage"
+        "DOTA_Tooltip_ability_item_titan_silver_10_magic_resistance"            "%+$spell_resist"
+        "DOTA_Tooltip_ability_item_titan_silver_10_status_resistance"            "%+status_resist"
 
         // -------------------------------------
         // Tranquil Boots
