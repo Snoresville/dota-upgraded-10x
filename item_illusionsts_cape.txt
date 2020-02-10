@@ -1,0 +1,837 @@
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26500"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "9500"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "20"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "60"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "0"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "100"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "40"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "140"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "28"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "28"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26501"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape;item_illusionsts_cape"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26502"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "19000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "120"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "100"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "200"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "35"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "135"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "56"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "56"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26503"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_2;item_illusionsts_cape_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26504"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "38000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "240"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "300"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "30"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "130"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "112"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "112"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26505"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_3;item_illusionsts_cape_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26506"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "76000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "480"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "700"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "25"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "125"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "224"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "224"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26507"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_4;item_illusionsts_cape_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26508"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "152000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "960"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "1500"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "1600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "20"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "120"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "448"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "448"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26509"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_5;item_illusionsts_cape_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26510"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "304000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "1920"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "3100"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "3200"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "15"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "115"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "896"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "896"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26511"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_6;item_illusionsts_cape_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26512"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "608000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "3840"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "6300"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "6400"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "10"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "110"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "1792"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "1792"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26513"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_7;item_illusionsts_cape_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26514"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "1216000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "7680"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "12700"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "12800"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "5"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "105"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "3584"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "3584"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26515"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_8;item_illusionsts_cape_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Illusionist's Cape 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_illusionsts_cape_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26516"
+        "BaseClass"                     "item_illusionsts_cape"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_IMMEDIATE | DOTA_ABILITY_BEHAVIOR_NO_TARGET"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCooldown"                     "30.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "2432000"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "attack_damage_aura"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "illusion_duration"        "15360"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage"        "25500"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "outgoing_damage_tooltip"        "25600"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "incoming_damage"        "0"
+            }
+            "06"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "tooltip_incoming_damage_total_pct"        "100"
+            }
+            "07"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_agi"        "7168"
+            }
+            "08"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_str"        "7168"
+            }
+        }
+    }
+
+    "item_recipe_illusionsts_cape_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "26517"
+        "BaseClass"                     "item_recipe_illusionsts_cape"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_illusionsts_cape_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_illusionsts_cape_9;item_illusionsts_cape_9"
+        }
+    }
+

@@ -77,7 +77,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "630"
+                "impact_radius"        "377"
             }
             "12"
             {
@@ -203,7 +203,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "1260"
+                "impact_radius"        "408"
             }
             "12"
             {
@@ -329,7 +329,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "2520"
+                "impact_radius"        "439"
             }
             "12"
             {
@@ -455,7 +455,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "5040"
+                "impact_radius"        "470"
             }
             "12"
             {
@@ -581,7 +581,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "10080"
+                "impact_radius"        "501"
             }
             "12"
             {
@@ -707,7 +707,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "20160"
+                "impact_radius"        "532"
             }
             "12"
             {
@@ -833,7 +833,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "40320"
+                "impact_radius"        "563"
             }
             "12"
             {
@@ -959,7 +959,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "80640"
+                "impact_radius"        "594"
             }
             "12"
             {
@@ -1085,7 +1085,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "impact_radius"        "161280"
+                "impact_radius"        "625"
             }
             "12"
             {
