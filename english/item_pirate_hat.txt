@@ -3,38 +3,38 @@
         // -------------------------------------
 
         "DOTA_Tooltip_Ability_item_pirate_hat_2"            "Pirate Hat 2"
-        "DOTA_Tooltip_ability_item_pirate_hat_2_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_2_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_2_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_3"            "Pirate Hat 3"
-        "DOTA_Tooltip_ability_item_pirate_hat_3_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_3_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_3_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_4"            "Pirate Hat 4"
-        "DOTA_Tooltip_ability_item_pirate_hat_4_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_4_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_4_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_5"            "Pirate Hat 5"
-        "DOTA_Tooltip_ability_item_pirate_hat_5_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_5_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_5_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_6"            "Pirate Hat 6"
-        "DOTA_Tooltip_ability_item_pirate_hat_6_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_6_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_6_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_7"            "Pirate Hat 7"
-        "DOTA_Tooltip_ability_item_pirate_hat_7_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_7_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_7_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_8"            "Pirate Hat 8"
-        "DOTA_Tooltip_ability_item_pirate_hat_8_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_8_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_8_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_9"            "Pirate Hat 9"
-        "DOTA_Tooltip_ability_item_pirate_hat_9_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_9_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_9_bonus_attack_speed"            "+$attack"
 
         "DOTA_Tooltip_Ability_item_pirate_hat_10"            "Pirate Hat 10"
-        "DOTA_Tooltip_ability_item_pirate_hat_10_Description"            "<h1>Passive: Kill Bounty</h1> Steals 300 gold when you kill an enemy hero."
+        "DOTA_Tooltip_ability_item_pirate_hat_10_Description"            "<h1>Passive: Kill Bounty</h1> Steals %gold_steal% gold when you kill an enemy hero."
         "DOTA_Tooltip_ability_item_pirate_hat_10_bonus_attack_speed"            "+$attack"
 
