@@ -1,0 +1,49 @@
+        // -------------------------------------
+        // Timeless Relic
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_2"            "Timeless Relic 2"
+        "DOTA_Tooltip_ability_item_timeless_relic_2_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_2_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_2_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_3"            "Timeless Relic 3"
+        "DOTA_Tooltip_ability_item_timeless_relic_3_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_3_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_3_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_4"            "Timeless Relic 4"
+        "DOTA_Tooltip_ability_item_timeless_relic_4_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_4_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_4_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_5"            "Timeless Relic 5"
+        "DOTA_Tooltip_ability_item_timeless_relic_5_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_5_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_5_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_6"            "Timeless Relic 6"
+        "DOTA_Tooltip_ability_item_timeless_relic_6_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_6_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_6_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_7"            "Timeless Relic 7"
+        "DOTA_Tooltip_ability_item_timeless_relic_7_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_7_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_7_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_8"            "Timeless Relic 8"
+        "DOTA_Tooltip_ability_item_timeless_relic_8_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_8_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_8_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_9"            "Timeless Relic 9"
+        "DOTA_Tooltip_ability_item_timeless_relic_9_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_9_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_9_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_10"            "Timeless Relic 10"
+        "DOTA_Tooltip_ability_item_timeless_relic_10_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_10_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_10_spell_amp"            "%+$spell_amp"
+

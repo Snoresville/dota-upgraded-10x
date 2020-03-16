@@ -3813,6 +3813,46 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_ability_item_orb_of_destruction_10_duration"            "DURATION:"
 
         // -------------------------------------
+        // Magic Lamp
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_panic_button_2"            "Magic Lamp 2"
+        "DOTA_Tooltip_ability_item_panic_button_2_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_2_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_3"            "Magic Lamp 3"
+        "DOTA_Tooltip_ability_item_panic_button_3_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_3_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_4"            "Magic Lamp 4"
+        "DOTA_Tooltip_ability_item_panic_button_4_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_4_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_5"            "Magic Lamp 5"
+        "DOTA_Tooltip_ability_item_panic_button_5_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_5_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_6"            "Magic Lamp 6"
+        "DOTA_Tooltip_ability_item_panic_button_6_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_6_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_7"            "Magic Lamp 7"
+        "DOTA_Tooltip_ability_item_panic_button_7_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_7_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_8"            "Magic Lamp 8"
+        "DOTA_Tooltip_ability_item_panic_button_8_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_8_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_9"            "Magic Lamp 9"
+        "DOTA_Tooltip_ability_item_panic_button_9_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_9_bonus_health"            "+$health"
+
+        "DOTA_Tooltip_Ability_item_panic_button_10"            "Magic Lamp 10"
+        "DOTA_Tooltip_ability_item_panic_button_10_Description"            "<h1>Passive: Rejuvenate </h1> When the wearer's health falls below %health_threshold%%, they will receive a hard dispel and be healed for %heal% health."
+        "DOTA_Tooltip_ability_item_panic_button_10_bonus_health"            "+$health"
+
+        // -------------------------------------
         // Phase Boots
         // -------------------------------------
 
@@ -4448,7 +4488,9 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
 
 
 
+
         "DOTA_Tooltip_ability_item_seer_stone_Lore"            "Greatly enhances normal beings to match legendary seers."
+
 
 
 
@@ -5709,6 +5751,55 @@ Attack speed increased by %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
         "DOTA_Tooltip_Ability_item_the_leveller_10"            "The Leveller 10"
         "DOTA_Tooltip_ability_item_the_leveller_10_bonus_attack_speed"            "+$attack"
         "DOTA_Tooltip_ability_item_the_leveller_10_demolish"            "%BONUS BUILDING DAMAGE:"
+
+        // -------------------------------------
+        // Timeless Relic
+        // -------------------------------------
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_2"            "Timeless Relic 2"
+        "DOTA_Tooltip_ability_item_timeless_relic_2_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_2_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_2_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_3"            "Timeless Relic 3"
+        "DOTA_Tooltip_ability_item_timeless_relic_3_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_3_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_3_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_4"            "Timeless Relic 4"
+        "DOTA_Tooltip_ability_item_timeless_relic_4_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_4_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_4_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_5"            "Timeless Relic 5"
+        "DOTA_Tooltip_ability_item_timeless_relic_5_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_5_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_5_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_6"            "Timeless Relic 6"
+        "DOTA_Tooltip_ability_item_timeless_relic_6_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_6_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_6_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_7"            "Timeless Relic 7"
+        "DOTA_Tooltip_ability_item_timeless_relic_7_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_7_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_7_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_8"            "Timeless Relic 8"
+        "DOTA_Tooltip_ability_item_timeless_relic_8_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_8_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_8_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_9"            "Timeless Relic 9"
+        "DOTA_Tooltip_ability_item_timeless_relic_9_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_9_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_9_spell_amp"            "%+$spell_amp"
+
+        "DOTA_Tooltip_Ability_item_timeless_relic_10"            "Timeless Relic 10"
+        "DOTA_Tooltip_ability_item_timeless_relic_10_Description"            "Increases all outgoing spell damage and debuff duration."
+        "DOTA_Tooltip_ability_item_timeless_relic_10_debuff_amp"            "%+Debuff Duration"
+        "DOTA_Tooltip_ability_item_timeless_relic_10_spell_amp"            "%+$spell_amp"
 
         // -------------------------------------
         // Titan Silver
