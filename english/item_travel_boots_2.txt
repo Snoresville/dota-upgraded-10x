@@ -6,44 +6,53 @@
         "DOTA_Tooltip_ability_item_travel_boots_2_2_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_2_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_2_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_2_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_3"            "Boots Of Travel EX 3"
         "DOTA_Tooltip_ability_item_travel_boots_2_3_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_3_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_3_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_3_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_4"            "Boots Of Travel EX 4"
         "DOTA_Tooltip_ability_item_travel_boots_2_4_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_4_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_4_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_4_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_5"            "Boots Of Travel EX 5"
         "DOTA_Tooltip_ability_item_travel_boots_2_5_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_5_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_5_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_5_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_6"            "Boots Of Travel EX 6"
         "DOTA_Tooltip_ability_item_travel_boots_2_6_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_6_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_6_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_6_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_7"            "Boots Of Travel EX 7"
         "DOTA_Tooltip_ability_item_travel_boots_2_7_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_7_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_7_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_7_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_8"            "Boots Of Travel EX 8"
         "DOTA_Tooltip_ability_item_travel_boots_2_8_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_8_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_8_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_8_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_9"            "Boots Of Travel EX 9"
         "DOTA_Tooltip_ability_item_travel_boots_2_9_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_9_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_9_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_9_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 
         "DOTA_Tooltip_Ability_item_travel_boots_2_10"            "Boots Of Travel EX 10"
         "DOTA_Tooltip_ability_item_travel_boots_2_10_Description"            "<h1>Active: Teleport</h1> Teleports you to any allied structure or unit, including heroes. Teleporting to a unit is interrupted if the target unit dies.<br><br>Adds %tp_penalty% seconds to the cooldown of Town Portal Scroll.\nMovement speed bonuses from multiple pairs of boots do not stack."
         "DOTA_Tooltip_ability_item_travel_boots_2_10_Lore"            "Winged boots that grant omnipresence."
         "DOTA_Tooltip_ability_item_travel_boots_2_10_bonus_movement_speed"            "%+$move_speed"
+        "DOTA_Tooltip_ability_item_travel_boots_2_10_tp_cooldown"            "TOWN PORTAL SCROLL COOLDOWN:"
 

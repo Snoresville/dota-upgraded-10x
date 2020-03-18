@@ -43,7 +43,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "60"
+                "bonus_damage"        "608"
             }
         }
     }
@@ -115,7 +115,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "120"
+                "bonus_damage"        "1216"
             }
         }
     }
@@ -187,7 +187,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "240"
+                "bonus_damage"        "2432"
             }
         }
     }
@@ -259,7 +259,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "480"
+                "bonus_damage"        "4864"
             }
         }
     }
@@ -331,7 +331,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "960"
+                "bonus_damage"        "9728"
             }
         }
     }
@@ -403,7 +403,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "1920"
+                "bonus_damage"        "19456"
             }
         }
     }
@@ -475,7 +475,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "3840"
+                "bonus_damage"        "38912"
             }
         }
     }
@@ -547,7 +547,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "7680"
+                "bonus_damage"        "77824"
             }
         }
     }
@@ -619,7 +619,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "15360"
+                "bonus_damage"        "155648"
             }
         }
     }

@@ -36,7 +36,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "150"
+                "bonus_attack_speed"        "130"
             }
             "03"
             {
@@ -171,7 +171,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "300"
+                "bonus_attack_speed"        "260"
             }
             "03"
             {
@@ -306,7 +306,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "600"
+                "bonus_attack_speed"        "520"
             }
             "03"
             {
@@ -441,7 +441,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "1200"
+                "bonus_attack_speed"        "1040"
             }
             "03"
             {
@@ -576,7 +576,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "2400"
+                "bonus_attack_speed"        "2080"
             }
             "03"
             {
@@ -711,7 +711,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "4800"
+                "bonus_attack_speed"        "4160"
             }
             "03"
             {
@@ -846,7 +846,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "9600"
+                "bonus_attack_speed"        "8320"
             }
             "03"
             {
@@ -981,7 +981,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "19200"
+                "bonus_attack_speed"        "16640"
             }
             "03"
             {
@@ -1116,7 +1116,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "38400"
+                "bonus_attack_speed"        "33280"
             }
             "03"
             {

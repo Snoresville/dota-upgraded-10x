@@ -58,12 +58,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "4"
+                "blast_agility_multiplier"        "3"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "150"
+                "blast_damage_base"        "250"
             }
             "08"
             {
@@ -165,12 +165,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "8"
+                "blast_agility_multiplier"        "6"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "300"
+                "blast_damage_base"        "500"
             }
             "08"
             {
@@ -272,12 +272,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "16"
+                "blast_agility_multiplier"        "12"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "600"
+                "blast_damage_base"        "1000"
             }
             "08"
             {
@@ -379,12 +379,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "32"
+                "blast_agility_multiplier"        "24"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "1200"
+                "blast_damage_base"        "2000"
             }
             "08"
             {
@@ -486,12 +486,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "64"
+                "blast_agility_multiplier"        "48"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "2400"
+                "blast_damage_base"        "4000"
             }
             "08"
             {
@@ -593,12 +593,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "128"
+                "blast_agility_multiplier"        "96"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "4800"
+                "blast_damage_base"        "8000"
             }
             "08"
             {
@@ -700,12 +700,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "256"
+                "blast_agility_multiplier"        "192"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "9600"
+                "blast_damage_base"        "16000"
             }
             "08"
             {
@@ -807,12 +807,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "512"
+                "blast_agility_multiplier"        "384"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "19200"
+                "blast_damage_base"        "32000"
             }
             "08"
             {
@@ -914,12 +914,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "1024"
+                "blast_agility_multiplier"        "768"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "38400"
+                "blast_damage_base"        "64000"
             }
             "08"
             {

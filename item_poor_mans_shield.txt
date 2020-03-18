@@ -28,7 +28,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "14"
+                "bonus_agility"        "16"
             }
             "02"
             {
@@ -105,7 +105,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "28"
+                "bonus_agility"        "32"
             }
             "02"
             {
@@ -182,7 +182,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "56"
+                "bonus_agility"        "64"
             }
             "02"
             {
@@ -259,7 +259,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "112"
+                "bonus_agility"        "128"
             }
             "02"
             {
@@ -336,7 +336,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "224"
+                "bonus_agility"        "256"
             }
             "02"
             {
@@ -413,7 +413,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "448"
+                "bonus_agility"        "512"
             }
             "02"
             {
@@ -490,7 +490,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "896"
+                "bonus_agility"        "1024"
             }
             "02"
             {
@@ -567,7 +567,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "1792"
+                "bonus_agility"        "2048"
             }
             "02"
             {
@@ -644,7 +644,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "3584"
+                "bonus_agility"        "4096"
             }
             "02"
             {

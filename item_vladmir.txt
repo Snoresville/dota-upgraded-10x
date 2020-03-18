@@ -29,7 +29,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "2.5"
+                "mana_regen_aura"        "3"
             }
             "02"
             {
@@ -49,7 +49,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "12"
+                "bonus_all_stats"        "10"
             }
         }
     }
@@ -107,7 +107,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "5"
+                "mana_regen_aura"        "6"
             }
             "02"
             {
@@ -127,7 +127,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "24"
+                "bonus_all_stats"        "20"
             }
         }
     }
@@ -185,7 +185,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "10"
+                "mana_regen_aura"        "12"
             }
             "02"
             {
@@ -205,7 +205,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "48"
+                "bonus_all_stats"        "40"
             }
         }
     }
@@ -263,7 +263,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "20"
+                "mana_regen_aura"        "24"
             }
             "02"
             {
@@ -283,7 +283,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "96"
+                "bonus_all_stats"        "80"
             }
         }
     }
@@ -341,7 +341,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "40"
+                "mana_regen_aura"        "48"
             }
             "02"
             {
@@ -361,7 +361,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "192"
+                "bonus_all_stats"        "160"
             }
         }
     }
@@ -419,7 +419,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "80"
+                "mana_regen_aura"        "96"
             }
             "02"
             {
@@ -439,7 +439,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "384"
+                "bonus_all_stats"        "320"
             }
         }
     }
@@ -497,7 +497,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "160"
+                "mana_regen_aura"        "192"
             }
             "02"
             {
@@ -517,7 +517,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "768"
+                "bonus_all_stats"        "640"
             }
         }
     }
@@ -575,7 +575,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "320"
+                "mana_regen_aura"        "384"
             }
             "02"
             {
@@ -595,7 +595,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "1536"
+                "bonus_all_stats"        "1280"
             }
         }
     }
@@ -653,7 +653,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "640"
+                "mana_regen_aura"        "768"
             }
             "02"
             {
@@ -673,7 +673,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "3072"
+                "bonus_all_stats"        "2560"
             }
         }
     }

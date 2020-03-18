@@ -7,22 +7,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24900"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "22.5"
-        "AbilityChannelTime"                     "2.50"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "150"
         "ItemCost"                      "9000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -34,7 +31,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "70"
+                "bonus_movement_speed"        "88"
             }
             "02"
             {
@@ -49,7 +46,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "8"
+                "tp_cooldown"        "32"
             }
         }
     }
@@ -85,22 +82,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24902"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "11.3"
-        "AbilityChannelTime"                     "2.20"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "300"
         "ItemCost"                      "18000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -112,7 +106,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "140"
+                "bonus_movement_speed"        "176"
             }
             "02"
             {
@@ -127,7 +121,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "7"
+                "tp_cooldown"        "28"
             }
         }
     }
@@ -163,22 +157,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24904"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "5.6"
-        "AbilityChannelTime"                     "1.90"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "600"
         "ItemCost"                      "36000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -190,7 +181,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "280"
+                "bonus_movement_speed"        "352"
             }
             "02"
             {
@@ -205,7 +196,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "6"
+                "tp_cooldown"        "24"
             }
         }
     }
@@ -241,22 +232,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24906"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "2.8"
-        "AbilityChannelTime"                     "1.60"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "1200"
         "ItemCost"                      "72000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -268,7 +256,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "560"
+                "bonus_movement_speed"        "704"
             }
             "02"
             {
@@ -283,7 +271,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "5"
+                "tp_cooldown"        "20"
             }
         }
     }
@@ -319,22 +307,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24908"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "1.4"
-        "AbilityChannelTime"                     "1.30"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "2400"
         "ItemCost"                      "144000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -346,7 +331,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "1120"
+                "bonus_movement_speed"        "1408"
             }
             "02"
             {
@@ -361,7 +346,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "4"
+                "tp_cooldown"        "16"
             }
         }
     }
@@ -397,22 +382,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24910"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.7"
-        "AbilityChannelTime"                     "1.00"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "4800"
         "ItemCost"                      "288000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -424,7 +406,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "2240"
+                "bonus_movement_speed"        "2816"
             }
             "02"
             {
@@ -439,7 +421,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "3"
+                "tp_cooldown"        "12"
             }
         }
     }
@@ -475,22 +457,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24912"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.4"
-        "AbilityChannelTime"                     "0.70"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "9600"
         "ItemCost"                      "576000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -502,7 +481,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "4480"
+                "bonus_movement_speed"        "5632"
             }
             "02"
             {
@@ -517,7 +496,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "2"
+                "tp_cooldown"        "8"
             }
         }
     }
@@ -553,22 +532,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24914"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.2"
-        "AbilityChannelTime"                     "0.40"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "19200"
         "ItemCost"                      "1152000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -580,7 +556,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "8960"
+                "bonus_movement_speed"        "11264"
             }
             "02"
             {
@@ -595,7 +571,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "1"
+                "tp_cooldown"        "4"
             }
         }
     }
@@ -631,22 +607,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24916"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.1"
-        "AbilityChannelTime"                     "0.10"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "38400"
         "ItemCost"                      "2304000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -658,7 +631,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "17920"
+                "bonus_movement_speed"        "22528"
             }
             "02"
             {
@@ -673,7 +646,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "0"
+                "tp_cooldown"        "0"
             }
         }
     }

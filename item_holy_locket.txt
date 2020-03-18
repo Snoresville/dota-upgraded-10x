@@ -24,7 +24,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "5800"
+        "ItemCost"                      "4900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -123,7 +123,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "11600"
+        "ItemCost"                      "9800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -222,7 +222,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "23200"
+        "ItemCost"                      "19600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -321,7 +321,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "46400"
+        "ItemCost"                      "39200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -420,7 +420,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "92800"
+        "ItemCost"                      "78400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -519,7 +519,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "185600"
+        "ItemCost"                      "156800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -618,7 +618,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "371200"
+        "ItemCost"                      "313600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -717,7 +717,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "742400"
+        "ItemCost"                      "627200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -816,7 +816,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "1484800"
+        "ItemCost"                      "1254400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 

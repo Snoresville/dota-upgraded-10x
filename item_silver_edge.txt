@@ -68,6 +68,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "8"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "100"
+            }
         }
     }
 
@@ -162,6 +167,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "16"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "200"
             }
         }
     }
@@ -258,6 +268,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "32"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "400"
+            }
         }
     }
 
@@ -352,6 +367,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "64"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "800"
             }
         }
     }
@@ -448,6 +468,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "128"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "1600"
+            }
         }
     }
 
@@ -542,6 +567,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "256"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "3200"
             }
         }
     }
@@ -638,6 +668,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "512"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "6400"
+            }
         }
     }
 
@@ -733,6 +768,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "1024"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "12800"
+            }
         }
     }
 
@@ -827,6 +867,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "2048"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "25600"
             }
         }
     }

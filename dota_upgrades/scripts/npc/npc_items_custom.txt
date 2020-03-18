@@ -24,7 +24,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "150"
-        "ItemCost"                      "13300"
+        "ItemCost"                      "13250"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -146,7 +146,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "300"
-        "ItemCost"                      "26600"
+        "ItemCost"                      "26500"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -268,7 +268,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "600"
-        "ItemCost"                      "53200"
+        "ItemCost"                      "53000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -390,7 +390,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "1200"
-        "ItemCost"                      "106400"
+        "ItemCost"                      "106000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -512,7 +512,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "2400"
-        "ItemCost"                      "212800"
+        "ItemCost"                      "212000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -634,7 +634,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "4800"
-        "ItemCost"                      "425600"
+        "ItemCost"                      "424000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -756,7 +756,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "9600"
-        "ItemCost"                      "851200"
+        "ItemCost"                      "848000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -878,7 +878,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "19200"
-        "ItemCost"                      "1702400"
+        "ItemCost"                      "1696000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -1000,7 +1000,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "38400"
-        "ItemCost"                      "3404800"
+        "ItemCost"                      "3392000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -1111,7 +1111,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1186,7 +1186,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1261,7 +1261,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1336,7 +1336,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1411,7 +1411,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1486,7 +1486,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1561,7 +1561,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1636,7 +1636,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -1711,7 +1711,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "115.0"
+        "AbilityCooldown"                     "105.0"
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
@@ -3293,7 +3293,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4760"
+        "ItemCost"                      "4810"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3398,7 +3398,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "9520"
+        "ItemCost"                      "9620"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3503,7 +3503,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "19040"
+        "ItemCost"                      "19240"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3608,7 +3608,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "38080"
+        "ItemCost"                      "38480"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3713,7 +3713,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "76160"
+        "ItemCost"                      "76960"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3818,7 +3818,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "152320"
+        "ItemCost"                      "153920"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -3923,7 +3923,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "304640"
+        "ItemCost"                      "307840"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -4028,7 +4028,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "609280"
+        "ItemCost"                      "615680"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -4133,7 +4133,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "1218560"
+        "ItemCost"                      "1231360"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -5031,7 +5031,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "60"
+                "bonus_damage"        "608"
             }
         }
     }
@@ -5103,7 +5103,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "120"
+                "bonus_damage"        "1216"
             }
         }
     }
@@ -5175,7 +5175,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "240"
+                "bonus_damage"        "2432"
             }
         }
     }
@@ -5247,7 +5247,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "480"
+                "bonus_damage"        "4864"
             }
         }
     }
@@ -5319,7 +5319,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "960"
+                "bonus_damage"        "9728"
             }
         }
     }
@@ -5391,7 +5391,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "1920"
+                "bonus_damage"        "19456"
             }
         }
     }
@@ -5463,7 +5463,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "3840"
+                "bonus_damage"        "38912"
             }
         }
     }
@@ -5535,7 +5535,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "7680"
+                "bonus_damage"        "77824"
             }
         }
     }
@@ -5607,7 +5607,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "15360"
+                "bonus_damage"        "155648"
             }
         }
     }
@@ -5655,7 +5655,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "8700"
+        "ItemCost"                      "8800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -5759,7 +5759,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "17400"
+        "ItemCost"                      "17600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -5863,7 +5863,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "34800"
+        "ItemCost"                      "35200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -5967,7 +5967,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "69600"
+        "ItemCost"                      "70400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -6071,7 +6071,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "139200"
+        "ItemCost"                      "140800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -6175,7 +6175,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "278400"
+        "ItemCost"                      "281600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -6279,7 +6279,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "556800"
+        "ItemCost"                      "563200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -6383,7 +6383,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "1113600"
+        "ItemCost"                      "1126400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -6487,7 +6487,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2227200"
+        "ItemCost"                      "2252800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -9029,12 +9029,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "60"
+                "bonus_attack_speed"        "170"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "150"
+                "bonus_damage"        "60"
             }
             "04"
             {
@@ -9044,32 +9044,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "36"
+                "silence_damage_percent"        "44"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "320"
+                "silence_duration"        "10"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "60"
+                "target_crit_multiplier"        "260"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "10"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "260"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "200"
             }
         }
     }
@@ -9134,12 +9124,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "120"
+                "bonus_attack_speed"        "340"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "300"
+                "bonus_damage"        "120"
             }
             "04"
             {
@@ -9149,32 +9139,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "44"
+                "silence_damage_percent"        "51"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "640"
+                "silence_duration"        "20"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "120"
+                "target_crit_multiplier"        "520"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "20"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "520"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "400"
             }
         }
     }
@@ -9239,12 +9219,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "240"
+                "bonus_attack_speed"        "680"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "600"
+                "bonus_damage"        "240"
             }
             "04"
             {
@@ -9254,32 +9234,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "52"
+                "silence_damage_percent"        "58"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "1280"
+                "silence_duration"        "40"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "240"
+                "target_crit_multiplier"        "1040"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "40"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "1040"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "800"
             }
         }
     }
@@ -9344,12 +9314,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "480"
+                "bonus_attack_speed"        "1360"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "1200"
+                "bonus_damage"        "480"
             }
             "04"
             {
@@ -9359,32 +9329,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "60"
+                "silence_damage_percent"        "65"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "2560"
+                "silence_duration"        "80"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "480"
+                "target_crit_multiplier"        "2080"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "80"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "2080"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "1600"
             }
         }
     }
@@ -9449,12 +9409,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "960"
+                "bonus_attack_speed"        "2720"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "2400"
+                "bonus_damage"        "960"
             }
             "04"
             {
@@ -9464,32 +9424,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "68"
+                "silence_damage_percent"        "72"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "5120"
+                "silence_duration"        "160"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "960"
+                "target_crit_multiplier"        "4160"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "160"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "4160"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "3200"
             }
         }
     }
@@ -9554,12 +9504,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "1920"
+                "bonus_attack_speed"        "5440"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "4800"
+                "bonus_damage"        "1920"
             }
             "04"
             {
@@ -9569,32 +9519,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "76"
+                "silence_damage_percent"        "79"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "10240"
+                "silence_duration"        "320"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "1920"
+                "target_crit_multiplier"        "8320"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "320"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "8320"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "6400"
             }
         }
     }
@@ -9659,12 +9599,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "3840"
+                "bonus_attack_speed"        "10880"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "9600"
+                "bonus_damage"        "3840"
             }
             "04"
             {
@@ -9674,32 +9614,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "84"
+                "silence_damage_percent"        "86"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "20480"
+                "silence_duration"        "640"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "3840"
+                "target_crit_multiplier"        "16640"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "640"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "16640"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "12800"
             }
         }
     }
@@ -9764,12 +9694,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "7680"
+                "bonus_attack_speed"        "21760"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "19200"
+                "bonus_damage"        "7680"
             }
             "04"
             {
@@ -9779,32 +9709,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "92"
+                "silence_damage_percent"        "93"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "40960"
+                "silence_duration"        "1280"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "7680"
+                "target_crit_multiplier"        "33280"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "1280"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "33280"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "25600"
             }
         }
     }
@@ -9869,12 +9789,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "15360"
+                "bonus_attack_speed"        "43520"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "38400"
+                "bonus_damage"        "15360"
             }
             "04"
             {
@@ -9884,32 +9804,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "100"
+                "silence_damage_percent"        "100"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "81920"
+                "silence_duration"        "2560"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "15360"
+                "target_crit_multiplier"        "66560"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "2560"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "66560"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "51200"
             }
         }
     }
@@ -9958,7 +9868,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "70"
+                "bonus_agility"        "60"
             }
             "02"
             {
@@ -10022,7 +9932,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "140"
+                "bonus_agility"        "120"
             }
             "02"
             {
@@ -10086,7 +9996,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "280"
+                "bonus_agility"        "240"
             }
             "02"
             {
@@ -10150,7 +10060,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "560"
+                "bonus_agility"        "480"
             }
             "02"
             {
@@ -10214,7 +10124,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "1120"
+                "bonus_agility"        "960"
             }
             "02"
             {
@@ -10278,7 +10188,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "2240"
+                "bonus_agility"        "1920"
             }
             "02"
             {
@@ -10342,7 +10252,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "4480"
+                "bonus_agility"        "3840"
             }
             "02"
             {
@@ -10406,7 +10316,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "8960"
+                "bonus_agility"        "7680"
             }
             "02"
             {
@@ -10470,7 +10380,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "17920"
+                "bonus_agility"        "15360"
             }
             "02"
             {
@@ -13049,7 +12959,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "19400"
+        "ItemCost"                      "18600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13114,7 +13024,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "38800"
+        "ItemCost"                      "37200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13179,7 +13089,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "77600"
+        "ItemCost"                      "74400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13244,7 +13154,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "155200"
+        "ItemCost"                      "148800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13309,7 +13219,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "310400"
+        "ItemCost"                      "297600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13374,7 +13284,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "620800"
+        "ItemCost"                      "595200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13439,7 +13349,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "1241600"
+        "ItemCost"                      "1190400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13504,7 +13414,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2483200"
+        "ItemCost"                      "2380800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -13569,7 +13479,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4966400"
+        "ItemCost"                      "4761600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -16062,12 +15972,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "4"
+                "blast_agility_multiplier"        "3"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "150"
+                "blast_damage_base"        "250"
             }
             "08"
             {
@@ -16169,12 +16079,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "8"
+                "blast_agility_multiplier"        "6"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "300"
+                "blast_damage_base"        "500"
             }
             "08"
             {
@@ -16276,12 +16186,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "16"
+                "blast_agility_multiplier"        "12"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "600"
+                "blast_damage_base"        "1000"
             }
             "08"
             {
@@ -16383,12 +16293,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "32"
+                "blast_agility_multiplier"        "24"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "1200"
+                "blast_damage_base"        "2000"
             }
             "08"
             {
@@ -16490,12 +16400,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "64"
+                "blast_agility_multiplier"        "48"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "2400"
+                "blast_damage_base"        "4000"
             }
             "08"
             {
@@ -16597,12 +16507,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "128"
+                "blast_agility_multiplier"        "96"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "4800"
+                "blast_damage_base"        "8000"
             }
             "08"
             {
@@ -16704,12 +16614,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "256"
+                "blast_agility_multiplier"        "192"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "9600"
+                "blast_damage_base"        "16000"
             }
             "08"
             {
@@ -16811,12 +16721,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "512"
+                "blast_agility_multiplier"        "384"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "19200"
+                "blast_damage_base"        "32000"
             }
             "08"
             {
@@ -16918,12 +16828,12 @@
             "06"
             {
                 "var_type"              "FIELD_FLOAT"
-                "blast_agility_multiplier"        "1024"
+                "blast_agility_multiplier"        "768"
             }
             "07"
             {
                 "var_type"              "FIELD_INTEGER"
-                "blast_damage_base"        "38400"
+                "blast_damage_base"        "64000"
             }
             "08"
             {
@@ -18737,7 +18647,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "1600"
+        "AbilityCastRange"                     "1100"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -18823,7 +18733,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "3200"
+        "AbilityCastRange"                     "2200"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -18909,7 +18819,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "6400"
+        "AbilityCastRange"                     "4400"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -18995,7 +18905,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "12800"
+        "AbilityCastRange"                     "8800"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -19081,7 +18991,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "25600"
+        "AbilityCastRange"                     "17600"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -19167,7 +19077,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "51200"
+        "AbilityCastRange"                     "35200"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -19253,7 +19163,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "102400"
+        "AbilityCastRange"                     "70400"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -19339,7 +19249,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "204800"
+        "AbilityCastRange"                     "140800"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -19425,7 +19335,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "409600"
+        "AbilityCastRange"                     "281600"
         "AbilityCooldown"                     "14.0"
 
         // Item Info
@@ -21770,7 +21680,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "10400"
+        "ItemCost"                      "10200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -21855,7 +21765,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "20800"
+        "ItemCost"                      "20400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -21940,7 +21850,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "41600"
+        "ItemCost"                      "40800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22025,7 +21935,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "83200"
+        "ItemCost"                      "81600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22110,7 +22020,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "166400"
+        "ItemCost"                      "163200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22195,7 +22105,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "332800"
+        "ItemCost"                      "326400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22280,7 +22190,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "665600"
+        "ItemCost"                      "652800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22365,7 +22275,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "1331200"
+        "ItemCost"                      "1305600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -22450,7 +22360,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2662400"
+        "ItemCost"                      "2611200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24209,7 +24119,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "5800"
+        "ItemCost"                      "4900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24308,7 +24218,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "11600"
+        "ItemCost"                      "9800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24407,7 +24317,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "23200"
+        "ItemCost"                      "19600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24506,7 +24416,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "46400"
+        "ItemCost"                      "39200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24605,7 +24515,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "92800"
+        "ItemCost"                      "78400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24704,7 +24614,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "185600"
+        "ItemCost"                      "156800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24803,7 +24713,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "371200"
+        "ItemCost"                      "313600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -24902,7 +24812,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "742400"
+        "ItemCost"                      "627200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -25001,7 +24911,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "ActiveDescriptionLine"                     "2"
-        "ItemCost"                      "1484800"
+        "ItemCost"                      "1254400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -25090,7 +25000,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "1600"
+        "AbilityCastRange"                     "1100"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25201,7 +25111,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "3200"
+        "AbilityCastRange"                     "2200"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25312,7 +25222,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "6400"
+        "AbilityCastRange"                     "4400"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25423,7 +25333,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "12800"
+        "AbilityCastRange"                     "8800"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25534,7 +25444,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "25600"
+        "AbilityCastRange"                     "17600"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25645,7 +25555,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "51200"
+        "AbilityCastRange"                     "35200"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25756,7 +25666,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "102400"
+        "AbilityCastRange"                     "70400"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25867,7 +25777,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "204800"
+        "AbilityCastRange"                     "140800"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -25978,7 +25888,7 @@
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCastRange"                     "409600"
+        "AbilityCastRange"                     "281600"
         "AbilityCastPoint"                     "0.0"
         "AbilityCooldown"                     "23.0"
 
@@ -26907,6 +26817,753 @@
         "ItemRequirements"
         {
             "01"                        "item_illusionsts_cape_9;item_illusionsts_cape_9"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 2
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27500"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "1800"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "300"
+        "ItemCost"                      "7900"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "20"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "13"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "8"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "500"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "12"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_2"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27501"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_2"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb;item_lotus_orb"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 3
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27502"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "3600"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "600"
+        "ItemCost"                      "15800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "40"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "26"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "16"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "1000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "24"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_3"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27503"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_3"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_2;item_lotus_orb_2"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 4
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27504"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "7200"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "1200"
+        "ItemCost"                      "31600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "80"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "52"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "32"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "2000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "48"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_4"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27505"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_4"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_3;item_lotus_orb_3"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 5
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27506"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "14400"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "2400"
+        "ItemCost"                      "63200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "160"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "104"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "64"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "4000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "96"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_5"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27507"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_5"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_4;item_lotus_orb_4"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 6
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27508"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "28800"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "4800"
+        "ItemCost"                      "126400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "320"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "208"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "128"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "8000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "192"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_6"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27509"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_6"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_5;item_lotus_orb_5"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 7
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27510"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "57600"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "9600"
+        "ItemCost"                      "252800"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "640"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "416"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "256"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "16000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "384"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_7"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27511"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_7"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_6;item_lotus_orb_6"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 8
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27512"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "115200"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "19200"
+        "ItemCost"                      "505600"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "1280"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "832"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "512"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "32000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "768"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_8"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27513"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_8"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_7;item_lotus_orb_7"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 9
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27514"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "230400"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "38400"
+        "ItemCost"                      "1011200"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "2560"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "1664"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "1024"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "64000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "1536"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_9"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27515"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_9"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_8;item_lotus_orb_8"
+        }
+    }
+
+    // -------------------------------------------------------------------------------------------------------------
+    // Lotus orb 10
+    // -------------------------------------------------------------------------------------------------------------
+    "item_lotus_orb_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27516"
+        "BaseClass"                     "item_lotus_orb"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_UNIT_TARGET"
+        "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
+        "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO"
+        "FightRecapLevel"                     "1"
+
+        // Stats
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityCastRange"                     "460800"
+        "AbilityCooldown"                     "15.0"
+
+        // Items
+        // -------------------------------------------------------------------------------------------------------------
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilityManaCost"                     "76800"
+        "ItemCost"                      "2022400"
+        "ItemIsNeutralDrop"                      "0"
+        "ItemPurchasable"                      "1"
+
+        // Special
+        // -------------------------------------------------------------------------------------------------------------
+        "AbilitySpecial"
+        {
+            "01"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_armor"        "5120"
+            }
+            "02"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_health_regen"        "3328"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "bonus_mana_regen"        "2048"
+            }
+            "04"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "bonus_mana"        "128000"
+            }
+            "05"
+            {
+                "var_type"              "FIELD_FLOAT"
+                "active_duration"        "3072"
+            }
+        }
+    }
+
+    "item_recipe_lotus_orb_10"
+    {
+        // General
+        // -------------------------------------------------------------------------------------------------------------
+        "ID"                            "27517"
+        "BaseClass"                     "item_recipe_lotus_orb"
+
+        // Item Info
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemCost"                      "0"
+        "ItemShopTags"                      ""
+
+        // Recipe
+        // -------------------------------------------------------------------------------------------------------------
+        "ItemRecipe"                     "1"
+        "ItemResult"                     "item_lotus_orb_10"
+        "ItemRequirements"
+        {
+            "01"                        "item_lotus_orb_9;item_lotus_orb_9"
         }
     }
 
@@ -29116,7 +29773,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "18100"
+        "ItemCost"                      "17900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29183,7 +29840,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "36200"
+        "ItemCost"                      "35800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29250,7 +29907,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "72400"
+        "ItemCost"                      "71600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29317,7 +29974,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "144800"
+        "ItemCost"                      "143200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29384,7 +30041,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "289600"
+        "ItemCost"                      "286400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29451,7 +30108,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "579200"
+        "ItemCost"                      "572800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29518,7 +30175,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "1158400"
+        "ItemCost"                      "1145600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29585,7 +30242,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2316800"
+        "ItemCost"                      "2291200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29652,7 +30309,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4633600"
+        "ItemCost"                      "4582400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -29738,7 +30395,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "150"
+                "bonus_attack_speed"        "130"
             }
             "03"
             {
@@ -29873,7 +30530,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "300"
+                "bonus_attack_speed"        "260"
             }
             "03"
             {
@@ -30008,7 +30665,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "600"
+                "bonus_attack_speed"        "520"
             }
             "03"
             {
@@ -30143,7 +30800,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "1200"
+                "bonus_attack_speed"        "1040"
             }
             "03"
             {
@@ -30278,7 +30935,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "2400"
+                "bonus_attack_speed"        "2080"
             }
             "03"
             {
@@ -30413,7 +31070,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "4800"
+                "bonus_attack_speed"        "4160"
             }
             "03"
             {
@@ -30548,7 +31205,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "9600"
+                "bonus_attack_speed"        "8320"
             }
             "03"
             {
@@ -30683,7 +31340,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "19200"
+                "bonus_attack_speed"        "16640"
             }
             "03"
             {
@@ -30818,7 +31475,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "38400"
+                "bonus_attack_speed"        "33280"
             }
             "03"
             {
@@ -32936,7 +33593,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "150"
-        "ItemCost"                      "9400"
+        "ItemCost"                      "9450"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -32962,7 +33619,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "12"
+                "mute_duration"        "10"
             }
             "05"
             {
@@ -32972,12 +33629,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "200"
+                "slow_pct"        "160"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "0.8"
+                "slow_interval_duration"        "1"
             }
         }
     }
@@ -33027,7 +33684,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "300"
-        "ItemCost"                      "18800"
+        "ItemCost"                      "18900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33053,7 +33710,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "24"
+                "mute_duration"        "20"
             }
             "05"
             {
@@ -33063,12 +33720,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "400"
+                "slow_pct"        "320"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "1.6"
+                "slow_interval_duration"        "2"
             }
         }
     }
@@ -33118,7 +33775,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "600"
-        "ItemCost"                      "37600"
+        "ItemCost"                      "37800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33144,7 +33801,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "48"
+                "mute_duration"        "40"
             }
             "05"
             {
@@ -33154,12 +33811,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "800"
+                "slow_pct"        "640"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "3.2"
+                "slow_interval_duration"        "4"
             }
         }
     }
@@ -33209,7 +33866,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "1200"
-        "ItemCost"                      "75200"
+        "ItemCost"                      "75600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33235,7 +33892,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "96"
+                "mute_duration"        "80"
             }
             "05"
             {
@@ -33245,12 +33902,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "1600"
+                "slow_pct"        "1280"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "6.4"
+                "slow_interval_duration"        "8"
             }
         }
     }
@@ -33300,7 +33957,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "2400"
-        "ItemCost"                      "150400"
+        "ItemCost"                      "151200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33326,7 +33983,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "192"
+                "mute_duration"        "160"
             }
             "05"
             {
@@ -33336,12 +33993,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "3200"
+                "slow_pct"        "2560"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "12.8"
+                "slow_interval_duration"        "16"
             }
         }
     }
@@ -33391,7 +34048,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "4800"
-        "ItemCost"                      "300800"
+        "ItemCost"                      "302400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33417,7 +34074,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "384"
+                "mute_duration"        "320"
             }
             "05"
             {
@@ -33427,12 +34084,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "6400"
+                "slow_pct"        "5120"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "25.6"
+                "slow_interval_duration"        "32"
             }
         }
     }
@@ -33482,7 +34139,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "9600"
-        "ItemCost"                      "601600"
+        "ItemCost"                      "604800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33508,7 +34165,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "768"
+                "mute_duration"        "640"
             }
             "05"
             {
@@ -33518,12 +34175,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "12800"
+                "slow_pct"        "10240"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "51.2"
+                "slow_interval_duration"        "64"
             }
         }
     }
@@ -33573,7 +34230,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "19200"
-        "ItemCost"                      "1203200"
+        "ItemCost"                      "1209600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33599,7 +34256,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "1536"
+                "mute_duration"        "1280"
             }
             "05"
             {
@@ -33609,12 +34266,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "25600"
+                "slow_pct"        "20480"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "102.4"
+                "slow_interval_duration"        "128"
             }
         }
     }
@@ -33664,7 +34321,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "38400"
-        "ItemCost"                      "2406400"
+        "ItemCost"                      "2419200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -33690,7 +34347,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mute_duration"        "3072"
+                "mute_duration"        "2560"
             }
             "05"
             {
@@ -33700,12 +34357,12 @@
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "slow_pct"        "51200"
+                "slow_pct"        "40960"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "slow_interval_duration"        "204.8"
+                "slow_interval_duration"        "256"
             }
         }
     }
@@ -36743,7 +37400,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "200"
-        "ItemCost"                      "5800"
+        "ItemCost"                      "5550"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36754,7 +37411,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "16"
+                "health_regen"        "17"
             }
             "02"
             {
@@ -36804,7 +37461,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "6"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -36859,7 +37516,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "400"
-        "ItemCost"                      "11600"
+        "ItemCost"                      "11100"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36870,7 +37527,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "32"
+                "health_regen"        "34"
             }
             "02"
             {
@@ -36920,7 +37577,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "12"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -36975,7 +37632,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "800"
-        "ItemCost"                      "23200"
+        "ItemCost"                      "22200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -36986,7 +37643,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "64"
+                "health_regen"        "68"
             }
             "02"
             {
@@ -37036,7 +37693,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "24"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37091,7 +37748,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "1600"
-        "ItemCost"                      "46400"
+        "ItemCost"                      "44400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37102,7 +37759,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "128"
+                "health_regen"        "136"
             }
             "02"
             {
@@ -37152,7 +37809,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "48"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37207,7 +37864,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "3200"
-        "ItemCost"                      "92800"
+        "ItemCost"                      "88800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37218,7 +37875,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "256"
+                "health_regen"        "272"
             }
             "02"
             {
@@ -37268,7 +37925,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "96"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37323,7 +37980,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "6400"
-        "ItemCost"                      "185600"
+        "ItemCost"                      "177600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37334,7 +37991,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "512"
+                "health_regen"        "544"
             }
             "02"
             {
@@ -37384,7 +38041,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "192"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37439,7 +38096,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "12800"
-        "ItemCost"                      "371200"
+        "ItemCost"                      "355200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37450,7 +38107,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "1024"
+                "health_regen"        "1088"
             }
             "02"
             {
@@ -37500,7 +38157,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "384"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37555,7 +38212,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "25600"
-        "ItemCost"                      "742400"
+        "ItemCost"                      "710400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37566,7 +38223,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "2048"
+                "health_regen"        "2176"
             }
             "02"
             {
@@ -37616,7 +38273,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "768"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -37671,7 +38328,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "51200"
-        "ItemCost"                      "1484800"
+        "ItemCost"                      "1420800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -37682,7 +38339,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "health_regen"        "4096"
+                "health_regen"        "4352"
             }
             "02"
             {
@@ -37732,7 +38389,7 @@
             "11"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "1536"
+                "bonus_all_stats"        "0"
             }
             "12"
             {
@@ -38352,7 +39009,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "14"
+                "bonus_agility"        "16"
             }
             "02"
             {
@@ -38429,7 +39086,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "28"
+                "bonus_agility"        "32"
             }
             "02"
             {
@@ -38506,7 +39163,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "56"
+                "bonus_agility"        "64"
             }
             "02"
             {
@@ -38583,7 +39240,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "112"
+                "bonus_agility"        "128"
             }
             "02"
             {
@@ -38660,7 +39317,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "224"
+                "bonus_agility"        "256"
             }
             "02"
             {
@@ -38737,7 +39394,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "448"
+                "bonus_agility"        "512"
             }
             "02"
             {
@@ -38814,7 +39471,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "896"
+                "bonus_agility"        "1024"
             }
             "02"
             {
@@ -38891,7 +39548,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "1792"
+                "bonus_agility"        "2048"
             }
             "02"
             {
@@ -38968,7 +39625,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_agility"        "3584"
+                "bonus_agility"        "4096"
             }
             "02"
             {
@@ -41951,7 +42608,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"            "8900"
+        "ItemCost"            "8700"
         "ItemIsNeutralDrop"            "0"
         "ItemPurchasable"            "1"
     }
@@ -42037,7 +42694,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"            "9700"
+        "ItemCost"            "9300"
         "ItemIsNeutralDrop"            "0"
         "ItemPurchasable"            "1"
     }
@@ -42995,7 +43652,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "750"
-        "ItemCost"                      "10200"
+        "ItemCost"                      "10000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43057,7 +43714,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "1500"
-        "ItemCost"                      "20400"
+        "ItemCost"                      "20000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43119,7 +43776,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "3000"
-        "ItemCost"                      "40800"
+        "ItemCost"                      "40000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43181,7 +43838,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "6000"
-        "ItemCost"                      "81600"
+        "ItemCost"                      "80000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43243,7 +43900,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "12000"
-        "ItemCost"                      "163200"
+        "ItemCost"                      "160000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43305,7 +43962,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "24000"
-        "ItemCost"                      "326400"
+        "ItemCost"                      "320000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43367,7 +44024,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "48000"
-        "ItemCost"                      "652800"
+        "ItemCost"                      "640000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43429,7 +44086,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "96000"
-        "ItemCost"                      "1305600"
+        "ItemCost"                      "1280000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -43491,7 +44148,7 @@
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
         "AbilityManaCost"                     "192000"
-        "ItemCost"                      "2611200"
+        "ItemCost"                      "2560000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -45872,6 +46529,11 @@
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "700"
             }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "20"
+            }
         }
     }
 
@@ -45930,6 +46592,11 @@
             {
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "1400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "40"
             }
         }
     }
@@ -45990,6 +46657,11 @@
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "2800"
             }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "80"
+            }
         }
     }
 
@@ -46048,6 +46720,11 @@
             {
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "5600"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "160"
             }
         }
     }
@@ -46108,6 +46785,11 @@
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "11200"
             }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "320"
+            }
         }
     }
 
@@ -46166,6 +46848,11 @@
             {
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "22400"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "640"
             }
         }
     }
@@ -46226,6 +46913,11 @@
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "44800"
             }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "1280"
+            }
         }
     }
 
@@ -46285,6 +46977,11 @@
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "89600"
             }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "2560"
+            }
         }
     }
 
@@ -46343,6 +47040,11 @@
             {
                 "var_type"              "FIELD_INTEGER"
                 "vision_bonus"        "179200"
+            }
+            "03"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "mana_regen"        "5120"
             }
         }
     }
@@ -48104,6 +48806,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "8"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "100"
+            }
         }
     }
 
@@ -48198,6 +48905,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "16"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "200"
             }
         }
     }
@@ -48294,6 +49006,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "32"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "400"
+            }
         }
     }
 
@@ -48388,6 +49105,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "64"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "800"
             }
         }
     }
@@ -48484,6 +49206,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "128"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "1600"
+            }
         }
     }
 
@@ -48578,6 +49305,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "256"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "3200"
             }
         }
     }
@@ -48674,6 +49406,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "512"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "6400"
+            }
         }
     }
 
@@ -48769,6 +49506,11 @@
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "1024"
             }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "12800"
+            }
         }
     }
 
@@ -48863,6 +49605,11 @@
             {
                 "var_type"              "FIELD_FLOAT"
                 "backstab_duration"        "2048"
+            }
+            "10"
+            {
+                "var_type"              "FIELD_INTEGER"
+                "heal_reduction"        "25600"
             }
         }
     }
@@ -49604,7 +50351,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "3"
+                "bonus_mana_regen_pct"        "3.5"
             }
             "05"
             {
@@ -49695,7 +50442,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "6"
+                "bonus_mana_regen_pct"        "7"
             }
             "05"
             {
@@ -49786,7 +50533,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "12"
+                "bonus_mana_regen_pct"        "14"
             }
             "05"
             {
@@ -49877,7 +50624,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "24"
+                "bonus_mana_regen_pct"        "28"
             }
             "05"
             {
@@ -49968,7 +50715,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "48"
+                "bonus_mana_regen_pct"        "56"
             }
             "05"
             {
@@ -50059,7 +50806,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "96"
+                "bonus_mana_regen_pct"        "112"
             }
             "05"
             {
@@ -50150,7 +50897,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "192"
+                "bonus_mana_regen_pct"        "224"
             }
             "05"
             {
@@ -50241,7 +50988,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "384"
+                "bonus_mana_regen_pct"        "448"
             }
             "05"
             {
@@ -50332,7 +51079,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "768"
+                "bonus_mana_regen_pct"        "896"
             }
             "05"
             {
@@ -51116,12 +51863,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "48"
+                "bonus_movement_speed"        "56"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "60"
+                "turn_rate"        "100"
             }
             "03"
             {
@@ -51189,12 +51936,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "96"
+                "bonus_movement_speed"        "112"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "120"
+                "turn_rate"        "200"
             }
             "03"
             {
@@ -51262,12 +52009,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "192"
+                "bonus_movement_speed"        "224"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "240"
+                "turn_rate"        "400"
             }
             "03"
             {
@@ -51335,12 +52082,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "384"
+                "bonus_movement_speed"        "448"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "480"
+                "turn_rate"        "800"
             }
             "03"
             {
@@ -51408,12 +52155,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "768"
+                "bonus_movement_speed"        "896"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "960"
+                "turn_rate"        "1600"
             }
             "03"
             {
@@ -51481,12 +52228,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "1536"
+                "bonus_movement_speed"        "1792"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "1920"
+                "turn_rate"        "3200"
             }
             "03"
             {
@@ -51554,12 +52301,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "3072"
+                "bonus_movement_speed"        "3584"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "3840"
+                "turn_rate"        "6400"
             }
             "03"
             {
@@ -51627,12 +52374,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "6144"
+                "bonus_movement_speed"        "7168"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "7680"
+                "turn_rate"        "12800"
             }
             "03"
             {
@@ -51700,12 +52447,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "12288"
+                "bonus_movement_speed"        "14336"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "15360"
+                "turn_rate"        "25600"
             }
             "03"
             {
@@ -52897,7 +53644,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "60"
+                "bonus_attack_speed"        "120"
             }
             "02"
             {
@@ -52959,7 +53706,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "120"
+                "bonus_attack_speed"        "240"
             }
             "02"
             {
@@ -53021,7 +53768,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "240"
+                "bonus_attack_speed"        "480"
             }
             "02"
             {
@@ -53083,7 +53830,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "480"
+                "bonus_attack_speed"        "960"
             }
             "02"
             {
@@ -53145,7 +53892,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "960"
+                "bonus_attack_speed"        "1920"
             }
             "02"
             {
@@ -53207,7 +53954,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "1920"
+                "bonus_attack_speed"        "3840"
             }
             "02"
             {
@@ -53269,7 +54016,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "3840"
+                "bonus_attack_speed"        "7680"
             }
             "02"
             {
@@ -53331,7 +54078,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "7680"
+                "bonus_attack_speed"        "15360"
             }
             "02"
             {
@@ -53393,7 +54140,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "15360"
+                "bonus_attack_speed"        "30720"
             }
             "02"
             {
@@ -54606,7 +55353,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2000"
+        "ItemCost"                      "1950"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -54627,7 +55374,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "32"
+                "bonus_health_regen"        "28"
             }
             "04"
             {
@@ -54709,7 +55456,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4000"
+        "ItemCost"                      "3900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -54730,7 +55477,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "64"
+                "bonus_health_regen"        "56"
             }
             "04"
             {
@@ -54812,7 +55559,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "8000"
+        "ItemCost"                      "7800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -54833,7 +55580,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "128"
+                "bonus_health_regen"        "112"
             }
             "04"
             {
@@ -54915,7 +55662,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "16000"
+        "ItemCost"                      "15600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -54936,7 +55683,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "256"
+                "bonus_health_regen"        "224"
             }
             "04"
             {
@@ -55018,7 +55765,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "32000"
+        "ItemCost"                      "31200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -55039,7 +55786,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "512"
+                "bonus_health_regen"        "448"
             }
             "04"
             {
@@ -55121,7 +55868,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "64000"
+        "ItemCost"                      "62400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -55142,7 +55889,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "1024"
+                "bonus_health_regen"        "896"
             }
             "04"
             {
@@ -55224,7 +55971,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "128000"
+        "ItemCost"                      "124800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -55245,7 +55992,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "2048"
+                "bonus_health_regen"        "1792"
             }
             "04"
             {
@@ -55327,7 +56074,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "256000"
+        "ItemCost"                      "249600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -55348,7 +56095,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "4096"
+                "bonus_health_regen"        "3584"
             }
             "04"
             {
@@ -55430,7 +56177,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "512000"
+        "ItemCost"                      "499200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -55451,7 +56198,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "8192"
+                "bonus_health_regen"        "7168"
             }
             "04"
             {
@@ -55522,22 +56269,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24900"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "22.5"
-        "AbilityChannelTime"                     "2.50"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "150"
         "ItemCost"                      "9000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55549,7 +56293,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "70"
+                "bonus_movement_speed"        "88"
             }
             "02"
             {
@@ -55564,7 +56308,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "8"
+                "tp_cooldown"        "32"
             }
         }
     }
@@ -55600,22 +56344,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24902"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "11.3"
-        "AbilityChannelTime"                     "2.20"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "300"
         "ItemCost"                      "18000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55627,7 +56368,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "140"
+                "bonus_movement_speed"        "176"
             }
             "02"
             {
@@ -55642,7 +56383,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "7"
+                "tp_cooldown"        "28"
             }
         }
     }
@@ -55678,22 +56419,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24904"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "5.6"
-        "AbilityChannelTime"                     "1.90"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "600"
         "ItemCost"                      "36000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55705,7 +56443,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "280"
+                "bonus_movement_speed"        "352"
             }
             "02"
             {
@@ -55720,7 +56458,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "6"
+                "tp_cooldown"        "24"
             }
         }
     }
@@ -55756,22 +56494,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24906"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "2.8"
-        "AbilityChannelTime"                     "1.60"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "1200"
         "ItemCost"                      "72000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55783,7 +56518,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "560"
+                "bonus_movement_speed"        "704"
             }
             "02"
             {
@@ -55798,7 +56533,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "5"
+                "tp_cooldown"        "20"
             }
         }
     }
@@ -55834,22 +56569,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24908"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "1.4"
-        "AbilityChannelTime"                     "1.30"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "2400"
         "ItemCost"                      "144000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55861,7 +56593,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "1120"
+                "bonus_movement_speed"        "1408"
             }
             "02"
             {
@@ -55876,7 +56608,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "4"
+                "tp_cooldown"        "16"
             }
         }
     }
@@ -55912,22 +56644,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24910"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.7"
-        "AbilityChannelTime"                     "1.00"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "4800"
         "ItemCost"                      "288000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -55939,7 +56668,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "2240"
+                "bonus_movement_speed"        "2816"
             }
             "02"
             {
@@ -55954,7 +56683,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "3"
+                "tp_cooldown"        "12"
             }
         }
     }
@@ -55990,22 +56719,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24912"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.4"
-        "AbilityChannelTime"                     "0.70"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "9600"
         "ItemCost"                      "576000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -56017,7 +56743,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "4480"
+                "bonus_movement_speed"        "5632"
             }
             "02"
             {
@@ -56032,7 +56758,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "2"
+                "tp_cooldown"        "8"
             }
         }
     }
@@ -56068,22 +56794,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24914"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.2"
-        "AbilityChannelTime"                     "0.40"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "19200"
         "ItemCost"                      "1152000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -56095,7 +56818,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "8960"
+                "bonus_movement_speed"        "11264"
             }
             "02"
             {
@@ -56110,7 +56833,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "1"
+                "tp_cooldown"        "4"
             }
         }
     }
@@ -56146,22 +56869,19 @@
         // -------------------------------------------------------------------------------------------------------------
         "ID"                            "24916"
         "BaseClass"                     "item_travel_boots_2"
-        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_POINT | DOTA_ABILITY_BEHAVIOR_CHANNELLED | DOTA_ABILITY_BEHAVIOR_UNIT_TARGET | DOTA_ABILITY_BEHAVIOR_NO_TARGET | DOTA_ABILITY_BEHAVIOR_DONT_RESUME_ATTACK | DOTA_ABILITY_BEHAVIOR_ROOT_DISABLES"
+        "AbilityBehavior"                     "DOTA_ABILITY_BEHAVIOR_PASSIVE"
         "AbilityUnitTargetTeam"                     "DOTA_UNIT_TARGET_TEAM_FRIENDLY"
         "AbilityUnitTargetType"                     "DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_CREEP"
         "AbilityUnitTargetFlags"                     "DOTA_UNIT_TARGET_FLAG_INVULNERABLE"
 
         // Stats
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityCooldown"                     "0.1"
-        "AbilityChannelTime"                     "0.10"
 
         // Items
         // -------------------------------------------------------------------------------------------------------------
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "AbilityManaCost"                     "38400"
         "ItemCost"                      "2304000"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
@@ -56173,7 +56893,7 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "17920"
+                "bonus_movement_speed"        "22528"
             }
             "02"
             {
@@ -56188,7 +56908,7 @@
             "04"
             {
                 "var_type"              "FIELD_INTEGER"
-                "tp_penalty"        "0"
+                "tp_cooldown"        "0"
             }
         }
     }
@@ -57800,7 +58520,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "2.5"
+                "aura_mana_regen"        "3"
             }
             "03"
             {
@@ -57884,7 +58604,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "5"
+                "aura_mana_regen"        "6"
             }
             "03"
             {
@@ -57968,7 +58688,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "10"
+                "aura_mana_regen"        "12"
             }
             "03"
             {
@@ -58052,7 +58772,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "20"
+                "aura_mana_regen"        "24"
             }
             "03"
             {
@@ -58136,7 +58856,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "40"
+                "aura_mana_regen"        "48"
             }
             "03"
             {
@@ -58220,7 +58940,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "80"
+                "aura_mana_regen"        "96"
             }
             "03"
             {
@@ -58304,7 +59024,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "160"
+                "aura_mana_regen"        "192"
             }
             "03"
             {
@@ -58388,7 +59108,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "320"
+                "aura_mana_regen"        "384"
             }
             "03"
             {
@@ -58472,7 +59192,7 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "aura_mana_regen"        "640"
+                "aura_mana_regen"        "768"
             }
             "03"
             {
@@ -58550,7 +59270,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "2.5"
+                "mana_regen_aura"        "3"
             }
             "02"
             {
@@ -58570,7 +59290,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "12"
+                "bonus_all_stats"        "10"
             }
         }
     }
@@ -58628,7 +59348,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "5"
+                "mana_regen_aura"        "6"
             }
             "02"
             {
@@ -58648,7 +59368,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "24"
+                "bonus_all_stats"        "20"
             }
         }
     }
@@ -58706,7 +59426,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "10"
+                "mana_regen_aura"        "12"
             }
             "02"
             {
@@ -58726,7 +59446,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "48"
+                "bonus_all_stats"        "40"
             }
         }
     }
@@ -58784,7 +59504,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "20"
+                "mana_regen_aura"        "24"
             }
             "02"
             {
@@ -58804,7 +59524,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "96"
+                "bonus_all_stats"        "80"
             }
         }
     }
@@ -58862,7 +59582,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "40"
+                "mana_regen_aura"        "48"
             }
             "02"
             {
@@ -58882,7 +59602,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "192"
+                "bonus_all_stats"        "160"
             }
         }
     }
@@ -58940,7 +59660,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "80"
+                "mana_regen_aura"        "96"
             }
             "02"
             {
@@ -58960,7 +59680,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "384"
+                "bonus_all_stats"        "320"
             }
         }
     }
@@ -59018,7 +59738,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "160"
+                "mana_regen_aura"        "192"
             }
             "02"
             {
@@ -59038,7 +59758,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "768"
+                "bonus_all_stats"        "640"
             }
         }
     }
@@ -59096,7 +59816,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "320"
+                "mana_regen_aura"        "384"
             }
             "02"
             {
@@ -59116,7 +59836,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "1536"
+                "bonus_all_stats"        "1280"
             }
         }
     }
@@ -59174,7 +59894,7 @@
             "01"
             {
                 "var_type"              "FIELD_FLOAT"
-                "mana_regen_aura"        "640"
+                "mana_regen_aura"        "768"
             }
             "02"
             {
@@ -59194,7 +59914,7 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_all_stats"        "3072"
+                "bonus_all_stats"        "2560"
             }
         }
     }

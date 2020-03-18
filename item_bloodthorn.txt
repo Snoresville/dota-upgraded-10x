@@ -36,12 +36,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "60"
+                "bonus_attack_speed"        "170"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "150"
+                "bonus_damage"        "60"
             }
             "04"
             {
@@ -51,32 +51,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "36"
+                "silence_damage_percent"        "44"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "320"
+                "silence_duration"        "10"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "60"
+                "target_crit_multiplier"        "260"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "10"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "260"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "200"
             }
         }
     }
@@ -141,12 +131,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "120"
+                "bonus_attack_speed"        "340"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "300"
+                "bonus_damage"        "120"
             }
             "04"
             {
@@ -156,32 +146,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "44"
+                "silence_damage_percent"        "51"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "640"
+                "silence_duration"        "20"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "120"
+                "target_crit_multiplier"        "520"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "20"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "520"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "400"
             }
         }
     }
@@ -246,12 +226,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "240"
+                "bonus_attack_speed"        "680"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "600"
+                "bonus_damage"        "240"
             }
             "04"
             {
@@ -261,32 +241,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "52"
+                "silence_damage_percent"        "58"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "1280"
+                "silence_duration"        "40"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "240"
+                "target_crit_multiplier"        "1040"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "40"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "1040"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "800"
             }
         }
     }
@@ -351,12 +321,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "480"
+                "bonus_attack_speed"        "1360"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "1200"
+                "bonus_damage"        "480"
             }
             "04"
             {
@@ -366,32 +336,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "60"
+                "silence_damage_percent"        "65"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "2560"
+                "silence_duration"        "80"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "480"
+                "target_crit_multiplier"        "2080"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "80"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "2080"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "1600"
             }
         }
     }
@@ -456,12 +416,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "960"
+                "bonus_attack_speed"        "2720"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "2400"
+                "bonus_damage"        "960"
             }
             "04"
             {
@@ -471,32 +431,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "68"
+                "silence_damage_percent"        "72"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "5120"
+                "silence_duration"        "160"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "960"
+                "target_crit_multiplier"        "4160"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "160"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "4160"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "3200"
             }
         }
     }
@@ -561,12 +511,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "1920"
+                "bonus_attack_speed"        "5440"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "4800"
+                "bonus_damage"        "1920"
             }
             "04"
             {
@@ -576,32 +526,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "76"
+                "silence_damage_percent"        "79"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "10240"
+                "silence_duration"        "320"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "1920"
+                "target_crit_multiplier"        "8320"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "320"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "8320"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "6400"
             }
         }
     }
@@ -666,12 +606,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "3840"
+                "bonus_attack_speed"        "10880"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "9600"
+                "bonus_damage"        "3840"
             }
             "04"
             {
@@ -681,32 +621,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "84"
+                "silence_damage_percent"        "86"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "20480"
+                "silence_duration"        "640"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "3840"
+                "target_crit_multiplier"        "16640"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "640"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "16640"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "12800"
             }
         }
     }
@@ -771,12 +701,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "7680"
+                "bonus_attack_speed"        "21760"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "19200"
+                "bonus_damage"        "7680"
             }
             "04"
             {
@@ -786,32 +716,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "92"
+                "silence_damage_percent"        "93"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "40960"
+                "silence_duration"        "1280"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "7680"
+                "target_crit_multiplier"        "33280"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "1280"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "33280"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "25600"
             }
         }
     }
@@ -876,12 +796,12 @@
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_attack_speed"        "15360"
+                "bonus_attack_speed"        "43520"
             }
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_damage"        "38400"
+                "bonus_damage"        "15360"
             }
             "04"
             {
@@ -891,32 +811,22 @@
             "05"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_chance"        "100"
+                "silence_damage_percent"        "100"
             }
             "06"
             {
                 "var_type"              "FIELD_INTEGER"
-                "crit_multiplier"        "81920"
+                "silence_duration"        "2560"
             }
             "07"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_damage_percent"        "15360"
+                "target_crit_multiplier"        "66560"
             }
             "08"
             {
                 "var_type"              "FIELD_FLOAT"
-                "silence_duration"        "2560"
-            }
-            "09"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "target_crit_multiplier"        "66560"
-            }
-            "010"
-            {
-                "var_type"              "FIELD_FLOAT"
-                "tooltip_crit_chance"        "100"
+                "tooltip_crit_chance"        "51200"
             }
         }
     }

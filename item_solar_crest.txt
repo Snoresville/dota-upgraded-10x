@@ -47,7 +47,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "3"
+                "bonus_mana_regen_pct"        "3.5"
             }
             "05"
             {
@@ -138,7 +138,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "6"
+                "bonus_mana_regen_pct"        "7"
             }
             "05"
             {
@@ -229,7 +229,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "12"
+                "bonus_mana_regen_pct"        "14"
             }
             "05"
             {
@@ -320,7 +320,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "24"
+                "bonus_mana_regen_pct"        "28"
             }
             "05"
             {
@@ -411,7 +411,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "48"
+                "bonus_mana_regen_pct"        "56"
             }
             "05"
             {
@@ -502,7 +502,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "96"
+                "bonus_mana_regen_pct"        "112"
             }
             "05"
             {
@@ -593,7 +593,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "192"
+                "bonus_mana_regen_pct"        "224"
             }
             "05"
             {
@@ -684,7 +684,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "384"
+                "bonus_mana_regen_pct"        "448"
             }
             "05"
             {
@@ -775,7 +775,7 @@
             "04"
             {
                 "var_type"              "FIELD_FLOAT"
-                "bonus_mana_regen_pct"        "768"
+                "bonus_mana_regen_pct"        "896"
             }
             "05"
             {

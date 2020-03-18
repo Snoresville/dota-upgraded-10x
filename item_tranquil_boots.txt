@@ -18,7 +18,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "2000"
+        "ItemCost"                      "1950"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -39,7 +39,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "32"
+                "bonus_health_regen"        "28"
             }
             "04"
             {
@@ -121,7 +121,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "4000"
+        "ItemCost"                      "3900"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -142,7 +142,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "64"
+                "bonus_health_regen"        "56"
             }
             "04"
             {
@@ -224,7 +224,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "8000"
+        "ItemCost"                      "7800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -245,7 +245,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "128"
+                "bonus_health_regen"        "112"
             }
             "04"
             {
@@ -327,7 +327,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "16000"
+        "ItemCost"                      "15600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -348,7 +348,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "256"
+                "bonus_health_regen"        "224"
             }
             "04"
             {
@@ -430,7 +430,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "32000"
+        "ItemCost"                      "31200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -451,7 +451,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "512"
+                "bonus_health_regen"        "448"
             }
             "04"
             {
@@ -533,7 +533,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "64000"
+        "ItemCost"                      "62400"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -554,7 +554,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "1024"
+                "bonus_health_regen"        "896"
             }
             "04"
             {
@@ -636,7 +636,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "128000"
+        "ItemCost"                      "124800"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -657,7 +657,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "2048"
+                "bonus_health_regen"        "1792"
             }
             "04"
             {
@@ -739,7 +739,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "256000"
+        "ItemCost"                      "249600"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -760,7 +760,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "4096"
+                "bonus_health_regen"        "3584"
             }
             "04"
             {
@@ -842,7 +842,7 @@
 
         // Item Info
         // -------------------------------------------------------------------------------------------------------------
-        "ItemCost"                      "512000"
+        "ItemCost"                      "499200"
         "ItemIsNeutralDrop"                      "0"
         "ItemPurchasable"                      "1"
 
@@ -863,7 +863,7 @@
             "03"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_health_regen"        "8192"
+                "bonus_health_regen"        "7168"
             }
             "04"
             {

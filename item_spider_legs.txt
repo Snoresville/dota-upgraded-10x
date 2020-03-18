@@ -29,12 +29,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "48"
+                "bonus_movement_speed"        "56"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "60"
+                "turn_rate"        "100"
             }
             "03"
             {
@@ -102,12 +102,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "96"
+                "bonus_movement_speed"        "112"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "120"
+                "turn_rate"        "200"
             }
             "03"
             {
@@ -175,12 +175,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "192"
+                "bonus_movement_speed"        "224"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "240"
+                "turn_rate"        "400"
             }
             "03"
             {
@@ -248,12 +248,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "384"
+                "bonus_movement_speed"        "448"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "480"
+                "turn_rate"        "800"
             }
             "03"
             {
@@ -321,12 +321,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "768"
+                "bonus_movement_speed"        "896"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "960"
+                "turn_rate"        "1600"
             }
             "03"
             {
@@ -394,12 +394,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "1536"
+                "bonus_movement_speed"        "1792"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "1920"
+                "turn_rate"        "3200"
             }
             "03"
             {
@@ -467,12 +467,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "3072"
+                "bonus_movement_speed"        "3584"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "3840"
+                "turn_rate"        "6400"
             }
             "03"
             {
@@ -540,12 +540,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "6144"
+                "bonus_movement_speed"        "7168"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "7680"
+                "turn_rate"        "12800"
             }
             "03"
             {
@@ -613,12 +613,12 @@
             "01"
             {
                 "var_type"              "FIELD_INTEGER"
-                "bonus_movement_speed"        "12288"
+                "bonus_movement_speed"        "14336"
             }
             "02"
             {
                 "var_type"              "FIELD_INTEGER"
-                "turn_rate"        "15360"
+                "turn_rate"        "25600"
             }
             "03"
             {
